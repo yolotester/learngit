@@ -23,12 +23,12 @@ else:
     print('Women')
 '''
 
-# while循环
+# while循环，重复性内容放在循环体，循环条件，初始化变量n控制循环次数
 n = 0
 while True:
     print(n, 'hello world')
-    n = n + 1
-    if n ==5:
+    n = n + 1   # 循环一次后，需要修正循环次数，n自增1
+    if n ==5:   # 判断条件，对n进行一个逻辑上的判断，n==5，则跳出循环
         break
 print('out while')
 
@@ -40,4 +40,29 @@ while n<=100:
     n += 1
 else:
     print('s:', s )
+
+
+# 刷微博阅读次数
+import os
+from  selenium import webdriver
+import time
+import random
+url = 'https://www.runoob.com/python3/python3-module.html'
+count = random.randint(2,4)
+j = 1
+while j < count:
+    i = 0
+    while i < 2:
+        wd = webdriver.Chrome()
+        wd.get(url)
+        i += 1
+        time.sleep(2)
+
+    else:
+        # os.system('taskkill /F /IM chrome.exe')
+        print(j,'close 浏览器')
+    j +=1
+
+
+
 

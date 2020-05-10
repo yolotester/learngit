@@ -1,12 +1,38 @@
+# for variable in sequence（list,tuple,str,files）：
+#     循环体
+
 y='fishc'
+n = 0
 for i in y:
-    print(i,end=' ')
+    print('{a} : {b}'.format(a = n ,b =i))
+    n += 1
+else:
+    print('out for')
 
-
+# 循环列表，len是BIF，返回该数据的长度
 member = ['wode ','祖国','aaaaaa','jljlkjlk']
+n = 0
 for i in member:
+    print('{a} : {b}'.format(a = n , b = i))
     print(i,len(i))
-# for循环 有冒号，len是BIF，返回该数据的长度
+    n += 1
+else:
+    print('out for list')
+
+# range(start,stop,step).左闭右开
+n = 0
+for val in range(1,4):
+    print('{a} : {b}'.format(a=n, b=val))
+    n += 1
+else:
+    print('out for range')
+
+fr = open('d:\\learnpython\\SmallTurtle\\ForList.py','r',encoding='utf-8')
+lt = fr.readlines()
+for val in lt:
+    open('d:\\ddd.txt','a+').write(val)  # 如果用w+ 会覆盖文件内容，a+是在文件内容后追加
+else:
+    print('out file')
 
 # 结果是自己想要的答案再退出程序
 # bingo = 'yolo'
@@ -17,6 +43,7 @@ for i in member:
 #     word=input('错啦，请重新输入')
 # print('你可真棒 哦')
 # print('对，就是她')
+
 
 # 空列表  列表可以包含所有数据对象
 empty = []
@@ -55,6 +82,7 @@ print(yl , len(yl))
 
 # pop方法  删除列表最后一个元素  括号内为索引值1，则删除索引值为1的元素
 # yl.pop(1)
+
 
 # slice分片   列表的复制  [start:stop:步长]
 

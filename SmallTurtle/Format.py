@@ -14,6 +14,8 @@ print('{{{0}}}'.format('不打印'))
 # 格式化符号
 print('{0:.1f}{1}'.format(27.658,'GB'))
 
+
+
 # %c   格式化字符及其ASCII码
 print('%c' % 97)
 
@@ -64,7 +66,7 @@ print('%#x' % 25)
 print('%010d' % 5)
 print('%0-10d' % 5)
 
-# 转义符
+# 字符串转义符
 # \'    打印出单引号
 # \"    打印出双引号
 # \b    退格符
@@ -77,3 +79,11 @@ print('%0-10d' % 5)
 # \\    打印出反斜杠\
 # \v    纵向制表符
 # \a    发出系统响铃声
+
+# raw原始字符串 r
+str = r'aa\nbb'
+print(str)
+
+# unicode 字符串 u 显示的是Unicode编码
+str = u'aa\nbb'
+print(str)
