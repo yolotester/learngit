@@ -1,0 +1,71 @@
+# encoding=gbk
+import turtle as T
+import random
+import time
+
+# »­Ó£»¨µÄÇû¸É(60,t)
+def Tree(branch, t):
+    time.sleep(0.0005)
+    if branch > 3:
+        if 8 <= branch <= 12:
+            if random.randint(0, 2) == 0:
+                t.color('snow')  # °×
+            else:
+                t.color('lightcoral')  # µ­Éºº÷É«
+            t.pensize(branch / 3)
+        elif branch < 8:
+            if random.randint(0, 1) == 0:
+                t.color('snow')
+            else:
+                t.color('lightcoral')  # µ­Éºº÷É«
+            t.pensize(branch / 2)
+        else:
+            t.color('sienna')  # ô÷(zh¨§)É«
+            t.pensize(branch / 10)  # 6
+        t.forward(branch)
+        a = 1.5 * random.random()
+        t.right(20 * a)
+        b = 1.5 * random.random()
+        Tree(branch - 10 * b, t)
+        t.left(40 * a)
+        Tree(branch - 10 * b, t)
+        t.right(20 * a)
+        t.up()
+        t.backward(branch)
+        t.down()
+
+# µôÂäµÄ»¨°ê
+def Petal(m, t):
+    for i in range(m):
+        a = 200 - 400 * random.random()
+        b = 10 - 20 * random.random()
+        t.up()
+        t.forward(b)
+        t.left(90)
+        t.forward(a)
+        t.down()
+        t.color('lightcoral')  # µ­Éºº÷É«
+        t.circle(1)
+        t.up()
+        t.backward(a)
+        t.right(90)
+        t.backward(b)
+
+# »æÍ¼ÇøÓò
+t = T.Turtle()
+# »­²¼´óÐ¡
+w = T.Screen()
+t.hideturtle()  # Òþ²Ø»­±Ê
+t.getscreen().tracer(5, 0)
+w.screensize(bg='wheat')  # wheatÐ¡Âó
+t.left(90)
+t.up()
+t.backward(150)
+t.down()
+t.color('sienna')
+
+# »­Ó£»¨µÄÇû¸É
+Tree(60, t)
+# µôÂäµÄ»¨°ê
+Petal(200, t)
+w.exitonclick()
