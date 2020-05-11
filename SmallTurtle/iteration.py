@@ -1,6 +1,7 @@
 from collections.abc import Iterable,Iterator
 # 迭代类似于循环，每一次重复的过程就叫迭代。上一次迭代的结果，将用作下一次迭代的初始值
-# 提供迭代方法的容器，称为迭代器。通常接触迭代器的是序列包含（列表，元组，字符串，字典，集合）和生成器和带yield的generator function
+# 提供迭代方法的容器，称为迭代器。通常接触迭代器的是序列包含（列表，元组，字符串，字典，集合，文件）
+# 和生成器和带yield的generator function
 # 字符串即是容器又是迭代器，通过for语句从迭代器中一个一个取出元素
 # 使用for语句进行迭代
 for i in "yolo":
@@ -11,7 +12,15 @@ dict = {'yolo':'doudou','happy':'day'}
 for each in dict:
     print('%s -> %s' % (each,dict[each]))
 
-# 两个BIF，调用iter（），则会返回一个迭代器，调用next（）依次返回迭代器中的值如果迭代器没有值可以返回，则抛出一个StopIteration的异常
+fe = open('D:\\Git\\learngit\\test2.txt','r')
+for val in fe:
+    print(val,'22222')
+
+
+
+
+# for循环的工作原理：就是使用这两个BIF，调用iter（），则会返回一个迭代器，
+# 调用next（）依次返回迭代器中的值如果迭代器没有值可以返回，则抛出一个StopIteration的异常
 # 举例说明
 str  = 'yolo'
 it = iter(str)   # <class 'str_iterator'>,将字符串str，变为迭代器
@@ -31,6 +40,10 @@ while True:
     except StopIteration as e:
         break
     print(each)
+
+
+
+
 
 # 两个魔法方法  __iter__()返回迭代器本身,__next__()设置迭代规则，迭代器不跳出，会一直迭代下去
 # 迭代斐波那契数列
