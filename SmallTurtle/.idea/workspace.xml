@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="321548e1-e0c5-4b4f-80ed-1b89cfa8e0a1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ForList.py" beforeDir="false" afterPath="$PROJECT_DIR$/ForList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iteration.py" beforeDir="false" afterPath="$PROJECT_DIR$/iteration.py" afterDir="false" />
-    </list>
+    <list default="true" id="321548e1-e0c5-4b4f-80ed-1b89cfa8e0a1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,20 +34,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ForList.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3572">
-              <caret line="135" column="8" lean-forward="true" selection-start-line="135" selection-start-column="8" selection-end-line="135" selection-end-column="8" />
+            <state relative-caret-position="-3338">
+              <caret line="135" column="8" lean-forward="true" selection-end-line="302" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://D:/learnPython/SmallTurtle/ForList.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3285">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="796">
+              <caret line="302" lean-forward="true" selection-start-line="302" selection-end-line="302" />
             </state>
           </provider>
         </entry>
@@ -90,6 +86,7 @@
         <option value="$PROJECT_DIR$/Format.py" />
         <option value="$PROJECT_DIR$/ForList.py" />
         <option value="$PROJECT_DIR$/Str.py" />
+        <option value="D:/learnPython/SmallTurtle/ForList.py" />
       </list>
     </option>
   </component>
@@ -180,12 +177,12 @@
       <updated>1589114795347</updated>
       <workItem from="1589114796446" duration="8455000" />
       <workItem from="1589225601813" duration="70000" />
-      <workItem from="1589225825786" duration="1818000" />
+      <workItem from="1589225825786" duration="2458000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10343000" />
+    <option name="totallyTimeSpent" value="10983000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -254,13 +251,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/learnPython/SmallTurtle/ForList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3285">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Str.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
@@ -268,10 +258,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://D:/learnPython/SmallTurtle/Format.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/ForList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3572">
-          <caret line="135" column="8" lean-forward="true" selection-start-line="135" selection-start-column="8" selection-end-line="135" selection-end-column="8" />
+        <state relative-caret-position="-3338">
+          <caret line="135" column="8" lean-forward="true" selection-end-line="302" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/learnPython/SmallTurtle/ForList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="796">
+          <caret line="302" lean-forward="true" selection-start-line="302" selection-end-line="302" />
         </state>
       </provider>
     </entry>
