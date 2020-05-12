@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="321548e1-e0c5-4b4f-80ed-1b89cfa8e0a1" name="Default Changelist" comment="" />
+    <list default="true" id="321548e1-e0c5-4b4f-80ed-1b89cfa8e0a1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/File.py" beforeDir="false" afterPath="$PROJECT_DIR$/File.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForList.py" beforeDir="false" afterPath="$PROJECT_DIR$/ForList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Str.py" beforeDir="false" afterPath="$PROJECT_DIR$/Str.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iteration.py" beforeDir="false" afterPath="$PROJECT_DIR$/iteration.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +15,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/SmallTurtle$Str.coverage" NAME="Str Coverage Results" MODIFIED="1589137317054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SmallTurtle$iteration.coverage" NAME="iteration Coverage Results" MODIFIED="1589307928510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SmallTurtle$Str.coverage" NAME="Str Coverage Results" MODIFIED="1589305718573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SmallTurtle$ForList.coverage" NAME="ForList Coverage Results" MODIFIED="1589298776110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -28,8 +36,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/File.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+            <state relative-caret-position="1664">
+              <caret line="85" column="54" selection-start-line="85" selection-start-column="54" selection-end-line="85" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -37,17 +45,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ForList.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3338">
-              <caret line="135" column="8" lean-forward="true" selection-end-line="302" />
+            <state relative-caret-position="6445">
+              <caret line="294" column="10" lean-forward="true" selection-start-line="294" selection-start-column="10" selection-end-line="294" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://D:/learnPython/SmallTurtle/ForList.py">
+        <entry file="file://$PROJECT_DIR$/iteration.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="796">
-              <caret line="302" lean-forward="true" selection-start-line="302" selection-end-line="302" />
+            <state relative-caret-position="676">
+              <caret line="83" column="51" selection-start-line="83" selection-start-column="51" selection-end-line="83" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -55,8 +63,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Str.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="268" column="12" lean-forward="true" selection-start-line="268" selection-start-column="12" selection-end-line="268" selection-end-column="12" />
+            <state relative-caret-position="798">
+              <caret line="313" column="29" lean-forward="true" selection-start-line="313" selection-start-column="29" selection-end-line="313" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -84,17 +92,18 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Format.py" />
+        <option value="D:/learnPython/SmallTurtle/ForList.py" />
         <option value="$PROJECT_DIR$/ForList.py" />
         <option value="$PROJECT_DIR$/Str.py" />
-        <option value="D:/learnPython/SmallTurtle/ForList.py" />
+        <option value="$PROJECT_DIR$/File.py" />
+        <option value="$PROJECT_DIR$/iteration.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="625" />
-    <option name="y" value="8" />
-    <option name="width" value="1036" />
-    <option name="height" value="733" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="26" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -136,7 +145,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.iteration">
+    <configuration name="ForList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SmallTurtle" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ForList.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Str" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SmallTurtle" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -159,9 +190,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="iteration" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SmallTurtle" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iteration.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.iteration" />
         <item itemvalue="Python.Str" />
+        <item itemvalue="Python.ForList" />
       </list>
     </recent_temporary>
   </component>
@@ -177,23 +232,24 @@
       <updated>1589114795347</updated>
       <workItem from="1589114796446" duration="8455000" />
       <workItem from="1589225601813" duration="70000" />
-      <workItem from="1589225825786" duration="2458000" />
+      <workItem from="1589225825786" duration="2880000" />
+      <workItem from="1589280862383" duration="9668000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10983000" />
+    <option name="totallyTimeSpent" value="21073000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="26" y="0" width="974" height="1047" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13859275" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10284464" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35862914" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36220473" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -227,6 +283,16 @@
         <state relative-caret-position="-593" />
       </provider>
     </entry>
+    <entry file="file://D:/learnPython/SmallTurtle/Format.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/learnPython/SmallTurtle/ForList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="796">
+          <caret line="302" lean-forward="true" selection-start-line="302" selection-end-line="302" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/IfWhile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1066">
@@ -234,13 +300,6 @@
           <folding>
             <element signature="e#710#719#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/File.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -253,25 +312,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Str.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="268" column="12" lean-forward="true" selection-start-line="268" selection-start-column="12" selection-end-line="268" selection-end-column="12" />
+        <state relative-caret-position="798">
+          <caret line="313" column="29" lean-forward="true" selection-start-line="313" selection-start-column="29" selection-end-line="313" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/learnPython/SmallTurtle/Format.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/File.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1664">
+          <caret line="85" column="54" selection-start-line="85" selection-start-column="54" selection-end-line="85" selection-end-column="54" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ForList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3338">
-          <caret line="135" column="8" lean-forward="true" selection-end-line="302" />
+        <state relative-caret-position="6445">
+          <caret line="294" column="10" lean-forward="true" selection-start-line="294" selection-start-column="10" selection-end-line="294" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/learnPython/SmallTurtle/ForList.py">
+    <entry file="file://$PROJECT_DIR$/iteration.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="796">
-          <caret line="302" lean-forward="true" selection-start-line="302" selection-end-line="302" />
+        <state relative-caret-position="676">
+          <caret line="83" column="51" selection-start-line="83" selection-start-column="51" selection-end-line="83" selection-end-column="51" />
         </state>
       </provider>
     </entry>

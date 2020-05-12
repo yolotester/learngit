@@ -286,17 +286,37 @@ i = 0
 while i <= len(li2) -1:
     fe.write(str(li2[i]) + '\n')
     i += 1
-
-# isinstance(obj,type)  如果obj是type类型，返回true
-i = 0
-while isinstance(li3[i] ,int):
-    fe.write(str(li3[i]) + '\n')
-    i += 1
-else:
-    fe.write(li3[i] + '\n')
-
-
-
 fe.close()
+
+# 混合型数据写入文件.字符串/整型/字符型数据
+lt1 = list(range(1,10))
+lt2 = ['yolo','doudou']
+lt3 = lt1 + lt2
+print(lt3)
+lt3.append(85.2523)
+print(lt3)
+# isinstance(obj,type)  如果obj是type类型，返回true
+
+print('write str/num to file...')
+
+fe = open(r'D:\Git\learngit\test.txt','w')
+i = 0
+while i <=len(lt3) -1:
+
+    if isinstance(lt3[i],int):
+        fe.write(str(lt3[i]) + '\n')
+    elif isinstance( lt3[i] ,float):
+        fe.write(str(lt3[i]) + '\n')
+    else:
+        fe.write(lt3[i] + '\n ')
+    i += 1
+fe.close()
+
+# 问题：列表中包含列表这种数据如何写入文件
+
+
+
+
+
 
 

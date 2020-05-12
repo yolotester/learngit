@@ -1,9 +1,9 @@
 from collections.abc import Iterable,Iterator
 # 迭代类似于循环，每一次重复的过程就叫迭代。上一次迭代的结果，将用作下一次迭代的初始值
-# 提供迭代方法的容器，称为迭代器。通常接触迭代器的是序列包含（列表，元组，字符串，字典，集合，文件）
+# 提供迭代方法的容器，称为迭代器。通常接触迭代器的是序列包含（列表，元组，字符串，字典，集合），文件是可迭代的对象
 # 和生成器和带yield的generator function
 # 字符串即是容器又是迭代器，通过for语句从迭代器中一个一个取出元素
-# 使用for语句进行迭代
+# 使用for语句进行迭代,迭代器对象
 for i in "yolo":
     print(i)
 
@@ -13,6 +13,8 @@ for each in dict:
     print('%s -> %s' % (each,dict[each]))
 
 fe = open('D:\\Git\\learngit\\test2.txt','r')
+it = iter(fe)
+print(type(fe))   # <class '_io.TextIOWrapper'>
 for val in fe:
     print(val,'22222')
 
@@ -34,6 +36,7 @@ print(next(it))
 # for语句工作原理
 str = 'yolo'
 it = iter(str)
+print(type(it))   # <class 'str_iterator'>
 while True:
     try:
         each = next(it)
@@ -72,13 +75,13 @@ def main():
 if __name__ == '__main__':
     main()
 
-# isinstance（）判断一个对象是否是Iterable（可迭代的）对象
+# isinstance（）判断一个对象是否是Iterable（可迭代的）对象，就有iter，next方法
 print(isinstance([],Iterable))
 print(isinstance('abx',Iterable))
 print(isinstance((x for x in range(10)),Iterable))
 print(isinstance(100,Iterable))
 
-# isinstance()判断一个对象是否是Iterator（迭代器）对象
+# isinstance()判断一个对象是否是Iterator（迭代器）对象，for可以遍历迭代器对象
 # 迭代器是Iterator对象，list，str，dict是Iterable对象不是Iterator对象，可使用iter方法变成Iterator对象
 print(isinstance(iter([]),Iterator))
 print(isinstance(iter('abx'),Iterator))
