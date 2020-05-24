@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78680dd6-68b8-4e46-8acd-4cae6e7cdfa2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../SmallTurtle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SmallTurtle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallTurtle/iteration.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SmallTurtle/iteration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filedownloadclient.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filedownloadserver.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcpclient.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcpserver.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udpchat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udpchathigh.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../txt/VimCommand.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../txt/VimCommand.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,78 +21,52 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pyhigh$threading1.coverage" NAME="threading1 Coverage Results" MODIFIED="1589713895340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread" />
+    <SUITE FILE_PATH="coverage/pyhigh$processpoll.coverage" NAME="processpoll Coverage Results" MODIFIED="1589909602972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread" />
+    <SUITE FILE_PATH="coverage/pyhigh$filecopy.coverage" NAME="filecopy Coverage Results" MODIFIED="1589915785146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread" />
+    <SUITE FILE_PATH="coverage/pyhigh$gevent.coverage" NAME="gevent Coverage Results" MODIFIED="1590299879043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread/协程" />
+    <SUITE FILE_PATH="coverage/pyhigh$process.coverage" NAME="process Coverage Results" MODIFIED="1589818447009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread" />
+    <SUITE FILE_PATH="coverage/pyhigh$iteration.coverage" NAME="iteration Coverage Results" MODIFIED="1590086158158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread/协程" />
+    <SUITE FILE_PATH="coverage/pyhigh$process1.coverage" NAME="process1 Coverage Results" MODIFIED="1589822849559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread" />
+    <SUITE FILE_PATH="coverage/pyhigh$threading2.coverage" NAME="threading2 Coverage Results" MODIFIED="1589716341965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread" />
     <SUITE FILE_PATH="coverage/pyhigh$11.coverage" NAME="11 Coverage Results" MODIFIED="1589398197786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pyhigh$iteration__1_.coverage" NAME="iteration (1) Coverage Results" MODIFIED="1590128161751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SmallTurtle" />
+    <SUITE FILE_PATH="coverage/pyhigh$geventttt.coverage" NAME="geventttt Coverage Results" MODIFIED="1590300443215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread/协程" />
+    <SUITE FILE_PATH="coverage/pyhigh$img_downloader.coverage" NAME="img_downloader Coverage Results" MODIFIED="1590301817585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread/协程" />
+    <SUITE FILE_PATH="coverage/pyhigh$threading.coverage" NAME="threading Coverage Results" MODIFIED="1589713345759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread" />
+    <SUITE FILE_PATH="coverage/pyhigh$threading5.coverage" NAME="threading5 Coverage Results" MODIFIED="1589738618771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread" />
+    <SUITE FILE_PATH="coverage/pyhigh$greenlet.coverage" NAME="greenlet Coverage Results" MODIFIED="1590299930740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread/协程" />
+    <SUITE FILE_PATH="coverage/pyhigh$generator.coverage" NAME="generator Coverage Results" MODIFIED="1590163812810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread/协程" />
+    <SUITE FILE_PATH="coverage/pyhigh$threading4.coverage" NAME="threading4 Coverage Results" MODIFIED="1589732709535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/udpchat.py">
+        <entry file="file://$PROJECT_DIR$/thread/协程/iteration.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/udpchathigh.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/11.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tcpclient.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tcpserver.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/filedownloadclient.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/filedownloadserver.py">
+        <entry file="file://$PROJECT_DIR$/thread/协程/img_downloader.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-140">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="253">
+              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/udp.py">
+        <entry file="file://$PROJECT_DIR$/../SmallTurtle/iteration.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+            <state relative-caret-position="87">
+              <caret line="76" column="10" selection-start-line="76" selection-start-column="10" selection-end-line="76" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -110,15 +93,33 @@
         <option value="$PROJECT_DIR$/tcp.py" />
         <option value="$PROJECT_DIR$/tcpserver.py" />
         <option value="$PROJECT_DIR$/filedownload.py" />
-        <option value="$PROJECT_DIR$/filedownloadserver.py" />
         <option value="$PROJECT_DIR$/filedownloadclient.py" />
+        <option value="$PROJECT_DIR$/filedownloadserver.py" />
+        <option value="$PROJECT_DIR$/thread/threading.py" />
+        <option value="$PROJECT_DIR$/thread/threading1.py" />
+        <option value="$PROJECT_DIR$/thread/threading2.py" />
+        <option value="$PROJECT_DIR$/thread/threading4.py" />
+        <option value="$PROJECT_DIR$/thread/threading5.py" />
+        <option value="$PROJECT_DIR$/thread/program.py" />
+        <option value="$PROJECT_DIR$/thread/process.py" />
+        <option value="$PROJECT_DIR$/thread/process1.py" />
+        <option value="$PROJECT_DIR$/thread/processpoll.py" />
+        <option value="$PROJECT_DIR$/thread/filecopy.py" />
+        <option value="$PROJECT_DIR$/../SmallTurtle/iteration.py" />
+        <option value="$PROJECT_DIR$/thread/协程/iteration.py" />
+        <option value="$PROJECT_DIR$/thread/协程/generator.py" />
+        <option value="$PROJECT_DIR$/thread/协程/generator1.py" />
+        <option value="$PROJECT_DIR$/thread/协程/gevent.py" />
+        <option value="$PROJECT_DIR$/thread/协程/greenlet.py" />
+        <option value="$PROJECT_DIR$/thread/协程/geventttt.py" />
+        <option value="$PROJECT_DIR$/thread/协程/img_downloader.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="width" value="1000" />
-    <option name="height" value="1047" />
+    <option name="width" value="1036" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -129,14 +130,30 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pyhigh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyhigh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyhigh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyhigh" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/thread" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -150,8 +167,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.img_downloader">
+    <configuration name="generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyhigh" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,12 +176,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/thread/协程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thread/协程/generator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,9 +190,108 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="gevent" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyhigh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/thread/协程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Git\learngit\pyhigh\thread\协程\geventttt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="geventttt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyhigh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/thread/协程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thread/协程/geventttt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="greenlet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyhigh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/thread/协程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thread/协程/greenlet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="img_downloader" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyhigh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/thread/协程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thread/协程/img_downloader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.generator" />
+      <item itemvalue="Python.greenlet" />
+      <item itemvalue="Python.gevent" />
+      <item itemvalue="Python.geventttt" />
+      <item itemvalue="Python.img_downloader" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.11" />
+        <item itemvalue="Python.img_downloader" />
+        <item itemvalue="Python.geventttt" />
+        <item itemvalue="Python.greenlet" />
+        <item itemvalue="Python.gevent" />
+        <item itemvalue="Python.generator" />
       </list>
     </recent_temporary>
   </component>
@@ -192,23 +308,26 @@
       <workItem from="1589390204027" duration="7588000" />
       <workItem from="1589443811457" duration="1276000" />
       <workItem from="1589472716879" duration="10343000" />
+      <workItem from="1589568277563" duration="27517000" />
+      <workItem from="1589903306897" duration="10632000" />
+      <workItem from="1590058294557" duration="20122000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19207000" />
+    <option name="totallyTimeSpent" value="77478000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="0" width="1036" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.018656716" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34030196" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25207755" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39915073" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -228,60 +347,144 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/thread/协程/geventttt.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/udpchathigh.py">
+    <entry file="file://$PROJECT_DIR$/udpchat.py" />
+    <entry file="file://$PROJECT_DIR$/udpchathigh.py" />
+    <entry file="file://$PROJECT_DIR$/11.py" />
+    <entry file="file://$PROJECT_DIR$/tcpclient.py" />
+    <entry file="file://$PROJECT_DIR$/tcpserver.py" />
+    <entry file="file://$PROJECT_DIR$/filedownloadclient.py" />
+    <entry file="file://$PROJECT_DIR$/filedownloadserver.py" />
+    <entry file="file://$PROJECT_DIR$/udp.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/threading.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        <state relative-caret-position="429">
+          <caret line="1159" lean-forward="true" selection-start-line="1159" selection-end-line="1159" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/11.py">
+    <entry file="file://$PROJECT_DIR$/socket/udpchat.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        <state relative-caret-position="-390" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread/threading5.py" />
+    <entry file="file://$PROJECT_DIR$/thread/threading4.py" />
+    <entry file="file://$PROJECT_DIR$/thread/threading2.py" />
+    <entry file="file://$PROJECT_DIR$/thread/threading1.py" />
+    <entry file="file://$PROJECT_DIR$/thread/threading.py" />
+    <entry file="file://$PROJECT_DIR$/thread/process.py" />
+    <entry file="file://$PROJECT_DIR$/thread/process1.py" />
+    <entry file="file://$PROJECT_DIR$/thread/processpoll.py" />
+    <entry file="file://$PROJECT_DIR$/thread/filecopy.py" />
+    <entry file="file://$PROJECT_DIR$/thread/线程/threading5.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread/线程/threading4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1063" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread/线程/threading2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1167" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread/进程/process1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-738" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread/进程/process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread/进程/filecopy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-946" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread/进程/processpoll.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#63#95#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/udp.py">
+    <entry file="file://$PROJECT_DIR$/../SmallTurtle/iteration.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        <state relative-caret-position="87">
+          <caret line="76" column="10" selection-start-line="76" selection-start-column="10" selection-end-line="76" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tcpclient.py">
+    <entry file="file://$PROJECT_DIR$/thread/协程/generator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="368">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tcpserver.py">
+    <entry file="file://$PROJECT_DIR$/thread/协程/generator1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
+        <state relative-caret-position="52">
+          <caret line="2" selection-start-line="2" selection-end-line="28" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/gevent/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-546" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread/协程/greenlet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding>
+            <element signature="e#46#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread/协程/geventttt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
           <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/udpchat.py">
+    <entry file="file://$PROJECT_DIR$/thread/协程/iteration.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/filedownloadclient.py">
+    <entry file="file://$PROJECT_DIR$/thread/协程/img_downloader.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/filedownloadserver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-140">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="253">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

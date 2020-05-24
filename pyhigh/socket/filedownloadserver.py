@@ -28,7 +28,7 @@ def main():
     # 创建套接字
     server_socket = socket(AF_INET,SOCK_STREAM)
 
-    # 绑定服务器ip和port信息
+    # 绑定服务器ip和port信息，绑定监听端口
     server_ip = input('请输入要绑定的服务器的IP：')
     server_port = int(input('请输入要绑定的服务器的port：'))
     server_socket.bind((server_ip,server_port))
