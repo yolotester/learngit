@@ -30,7 +30,7 @@ class JD(object):
         '''显示商品分类'''
 
         # 执行sql语句
-        sql = 'select cate_name from goods;'
+        sql = 'select name from good_cate s;'
         self.execute_sql(sql)
 
     def show_brands(self):
@@ -38,7 +38,10 @@ class JD(object):
 
         # 执行sql语句
         sql = 'select brand_name from goods;'
-        self.execute_sql(sql)
+        res = self.execute_sql(sql)
+
+        print(type(res))
+        print('11')
     #
     # def exit(self):
     #     '''退出系统'''
@@ -47,6 +50,18 @@ class JD(object):
     #     sql = 'exit()'
     #     self.execute_sql(sql)
 
+    def get_info_by_name(self):
+        find_name = input('请输入你要查询的商品：')
+        sql = """ select * from goods where name = %s """
+        self.cursor.execute(sql,[find_name])
+        print(self.cursor.fetchall())
+
+    def add_items(self):
+        add_name = input('请输入商品分类：')
+        sql = """insert into good_cates(name) values ('%s')""" % add_name
+        self.cursor.execute(sql)
+        self.conn.commit()
+
     @staticmethod
     def print_menu():
         print('-------京东商城--------')
@@ -54,6 +69,8 @@ class JD(object):
         print('2、查询商品分类')
         print('3、查询商品品牌')
         print('4、退出京东商城')
+        print('5、根据名字查询商品')
+        print('6、插入商品分类')
         return  input('请输入相应功能的序号:')
 
 
@@ -72,6 +89,12 @@ class JD(object):
                  self.show_brands()
             elif op =="4":
                 break
+
+            elif op=="5":
+                self.get_info_by_name()
+
+            elif op=="6":
+                self.add_items()
             else:
                  print('输入有误，请重新输入...')
 
