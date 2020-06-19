@@ -2,7 +2,7 @@
 import logging
 
 # 日志的基本配置
-logging.basicConfig(level = logging.DEBUG, format= '%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+logging.basicConfig(level = logging.DEBUG, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 
 
 # 获得logger对象
