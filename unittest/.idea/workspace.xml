@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83aa2741-3075-4e4c-aaeb-bb11215004ca" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -16,6 +17,20 @@
       <change afterPath="$PROJECT_DIR$/loggingStudyHigh/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/loggingStudyHigh/fathermodule.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/loggingStudyHigh/sonmodule.py" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/../SmallTurtle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SmallTurtle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pyhigh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pyhigh/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pyhigh/Mysql/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pyhigh/Mysql/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pyhigh/Mysql/11.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pyhigh/Mysql/11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pyhigh/Mysql/22.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pyhigh/Mysql/22.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pyhigh/Mysql/sql1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pyhigh/Mysql/sql1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pyhigh/requests/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pyhigh/requests/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pyhigh/requests/authentication.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pyhigh/requests/authentication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pyhigh/requests/cookieAsession.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pyhigh/requests/cookieAsession.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pyhigh/requests/get.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pyhigh/requests/get.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pyhigh/requests/post.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pyhigh/requests/post.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pyhigh/requests/postParams.py" beforeDir="false" />
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,36 +41,57 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/unittest$run1.coverage" NAME="run1 Coverage Results" MODIFIED="1592331568569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
     <SUITE FILE_PATH="coverage/unittest$Unittests_for_unittest02_TestIF.coverage" NAME="Unittests for unittest02.TestIF Coverage Results" MODIFIED="1592368558377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/unittest$logging02.coverage" NAME="logging02 Coverage Results" MODIFIED="1592586912400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loggingStudy" />
     <SUITE FILE_PATH="coverage/unittest$logging05.coverage" NAME="logging05 Coverage Results" MODIFIED="1592589012343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loggingStudy" />
     <SUITE FILE_PATH="coverage/unittest$post.coverage" NAME="post Coverage Results" MODIFIED="1592326390305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyhigh/requests" />
     <SUITE FILE_PATH="coverage/unittest$Unittests_for_unittest01_TestInterface.coverage" NAME="Unittests for unittest01.TestInterface Coverage Results" MODIFIED="1592368417665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
     <SUITE FILE_PATH="coverage/unittest$Unittests_for_unittest05_Test_Blog_Login.coverage" NAME="Unittests for unittest05.Test_Blog_Login Coverage Results" MODIFIED="1592418877865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
     <SUITE FILE_PATH="coverage/unittest$logging03.coverage" NAME="logging03 Coverage Results" MODIFIED="1592587806475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loggingStudy" />
+=======
+    <SUITE FILE_PATH="coverage/unittest$post.coverage" NAME="post Coverage Results" MODIFIED="1592326390305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyhigh/requests" />
+    <SUITE FILE_PATH="coverage/unittest$Unittests_for_unittest01_TestInterface.coverage" NAME="Unittests for unittest01.TestInterface Coverage Results" MODIFIED="1592368417665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
+    <SUITE FILE_PATH="coverage/unittest$Unittests_for_unittest05_Test_Blog_Login.coverage" NAME="Unittests for unittest05.Test_Blog_Login Coverage Results" MODIFIED="1592418877865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
     <SUITE FILE_PATH="coverage/unittest$Unittests_in_unittest02_py.coverage" NAME="Unittests in unittest02.py Coverage Results" MODIFIED="1592368674082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
     <SUITE FILE_PATH="coverage/unittest$sql1.coverage" NAME="sql1 Coverage Results" MODIFIED="1592419554941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyhigh/Mysql" />
     <SUITE FILE_PATH="coverage/unittest$Unittests_in_unittest01_py.coverage" NAME="Unittests in unittest01.py Coverage Results" MODIFIED="1592331582186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
     <SUITE FILE_PATH="coverage/unittest$Unittests_in_unittest03_py.coverage" NAME="Unittests in unittest03.py Coverage Results" MODIFIED="1592413613647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
     <SUITE FILE_PATH="coverage/unittest$run_all_case.coverage" NAME="run_all_case Coverage Results" MODIFIED="1592502864594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/unittest$Unittests_in_unittest04_py.coverage" NAME="Unittests in unittest04.py Coverage Results" MODIFIED="1592415160439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/unittest$logging01.coverage" NAME="logging01 Coverage Results" MODIFIED="1592585111169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/logging" />
     <SUITE FILE_PATH="coverage/unittest$get.coverage" NAME="get Coverage Results" MODIFIED="1592461114605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyhigh/requests" />
     <SUITE FILE_PATH="coverage/unittest$logging04.coverage" NAME="logging04 Coverage Results" MODIFIED="1592588454165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loggingStudy" />
     <SUITE FILE_PATH="coverage/unittest$logging01__1_.coverage" NAME="logging01 (1) Coverage Results" MODIFIED="1592585187066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loggingStudy" />
+=======
+    <SUITE FILE_PATH="coverage/unittest$get.coverage" NAME="get Coverage Results" MODIFIED="1592461114605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyhigh/requests" />
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
     <SUITE FILE_PATH="coverage/unittest$22.coverage" NAME="22 Coverage Results" MODIFIED="1150498595614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyhigh/Mysql" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/loggingStudy/logging01.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
               <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+=======
+        <entry file="file://$PROJECT_DIR$/study/unittest01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/loggingStudyHigh/fathermodule.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="78">
@@ -69,23 +105,39 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="169">
               <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+=======
+        <entry file="file://$PROJECT_DIR$/study/unittest03.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="293">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/loggingStudy/logging02.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="305">
               <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
               <folding>
                 <element signature="e#16#30#0" expanded="true" />
+=======
+        <entry file="file://$PROJECT_DIR$/study/unittest04.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-234">
+              <caret selection-end-line="3" />
+              <folding>
+                <element signature="e#15#30#0" expanded="true" />
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/loggingStudy/log1.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="63">
@@ -99,36 +151,68 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="52">
               <caret line="2" selection-start-line="2" selection-end-line="26" selection-end-column="26" />
+=======
+        <entry file="file://$PROJECT_DIR$/study/unittest05.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="22" selection-start-line="22" selection-end-line="23" />
+              <folding>
+                <element signature="e#15#30#0" expanded="true" />
+              </folding>
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/loggingStudy/logging04.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="234">
               <caret line="9" column="48" lean-forward="true" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
               <folding>
                 <element signature="e#148#162#0" expanded="true" />
+=======
+        <entry file="file://$PROJECT_DIR$/study/unittest02.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="683">
+              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/loggingStudy/logging05.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-13">
               <caret line="40" column="26" lean-forward="true" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/run_all_case.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="538">
+              <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+              <folding>
+                <element signature="e#23#38#0" expanded="true" />
+              </folding>
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/loggingStudy/log.txt">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
+=======
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -158,6 +242,7 @@
         <option value="$PROJECT_DIR$/study/unittest03.py" />
         <option value="$PROJECT_DIR$/study/unittest01.py" />
         <option value="$PROJECT_DIR$/run_all_case.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/logging/logging01.py" />
         <option value="$PROJECT_DIR$/loggingStudy/logging01.py" />
         <option value="$PROJECT_DIR$/loggingStudy/logging2.py" />
@@ -168,14 +253,22 @@
         <option value="$PROJECT_DIR$/loggingStudy/logging05.py" />
         <option value="$PROJECT_DIR$/loggingStudyHigh/fathermodule.py" />
         <option value="$PROJECT_DIR$/loggingStudyHigh/sonmodule.py" />
+=======
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
+<<<<<<< HEAD
     <option name="x" value="636" />
     <option name="y" value="119" />
     <option name="width" value="1078" />
     <option name="height" value="747" />
+=======
+    <option name="x" value="469" />
+    <option name="width" value="1263" />
+    <option name="height" value="1047" />
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -185,6 +278,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -195,13 +292,25 @@
             <path>
               <item name="unittest" type="b2602c69:ProjectViewProjectNode" />
               <item name="unittest" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="loggingStudyHigh" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="unittest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unittest" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -223,8 +332,13 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.logging05">
     <configuration name="logging01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+  <component name="RunManager" selected="Python.run_all_case">
+    <configuration name="22" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
       <module name="unittest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -232,12 +346,21 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/loggingStudy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loggingStudy/logging01.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pyhigh/Mysql" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pyhigh/Mysql/22.py" />
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,7 +369,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="logging02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="get" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
       <module name="unittest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,12 +381,21 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/loggingStudy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loggingStudy/logging02.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pyhigh/requests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pyhigh/requests/get.py" />
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -268,7 +404,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="logging03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="run_all_case" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
       <module name="unittest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -276,12 +416,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/loggingStudy" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loggingStudy/logging03.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_all_case.py" />
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,7 +438,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="logging04" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="sql1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
       <module name="unittest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -298,12 +450,21 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/loggingStudy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loggingStudy/logging04.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pyhigh/Mysql" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pyhigh/Mysql/sql1.py" />
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -312,6 +473,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="logging05" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="unittest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -321,10 +483,19 @@
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/loggingStudy" />
+=======
+    <configuration name="Unittests for unittest05.Test_Blog_Login" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="unittest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study" />
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loggingStudy/logging05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -332,15 +503,28 @@
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
+=======
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;unittest05.Test_Blog_Login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Python.logging05" />
         <item itemvalue="Python.logging04" />
         <item itemvalue="Python.logging03" />
         <item itemvalue="Python.logging02" />
         <item itemvalue="Python.logging01 (1)" />
+=======
+        <item itemvalue="Python.run_all_case" />
+        <item itemvalue="Python.get" />
+        <item itemvalue="Python.22" />
+        <item itemvalue="Python.sql1" />
+        <item itemvalue="Python tests.Unittests for unittest05.Test_Blog_Login" />
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
       </list>
     </recent_temporary>
   </component>
@@ -354,8 +538,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592306703640</updated>
+<<<<<<< HEAD
       <workItem from="1592306704780" duration="33383000" />
       <workItem from="1592582835299" duration="8295000" />
+=======
+      <workItem from="1592306704780" duration="32779000" />
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
     </task>
     <servers />
   </component>
@@ -392,6 +580,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="41678000" />
   </component>
   <component name="ToolWindowManager">
@@ -404,10 +593,31 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295838" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36332768" />
+=======
+    <option name="totallyTimeSpent" value="32779000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="469" y="0" width="1263" height="1047" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.17396061" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295838" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.352081" />
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
@@ -444,17 +654,90 @@
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+=======
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Coverage" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.17396061" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Python Console" order="5" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.3295838" />
+      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.352081" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="SciView" order="1" />
+      <window_info anchor="right" id="Coverage" order="2" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://D:/chrome download/HTMLTestRunner.py" />
     <entry file="file://$PROJECT_DIR$/../pyhigh/requests/post.py" />
     <entry file="file://$PROJECT_DIR$/report/result_20-06-17-02_06_49.html" />
     <entry file="file://$PROJECT_DIR$/study/run1.py" />
     <entry file="file://$PROJECT_DIR$/report/run_all_case.py" />
+=======
+    <entry file="file://D:/chrome download/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyhigh/requests/post.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="83" column="32" lean-forward="true" selection-start-line="83" selection-start-column="32" selection-end-line="83" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/result_20-06-17-02_06_49.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3120" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/run1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="e#23#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/run_all_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+          <folding>
+            <element signature="e#23#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
@@ -462,6 +745,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/../pyhigh/requests/get.py" />
     <entry file="file://$PROJECT_DIR$/../pyhigh/Mysql/22.py" />
     <entry file="file://$PROJECT_DIR$/../pyhigh/Mysql/sql1.py" />
@@ -500,10 +784,58 @@
           <caret line="9" column="48" lean-forward="true" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
           <folding>
             <element signature="e#148#162#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/../pyhigh/requests/get.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../pyhigh/Mysql/22.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyhigh/Mysql/sql1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all_case_run.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16692">
+          <folding>
+            <element signature="e#3215#3230#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/unittest01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/loggingStudy/logging01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -517,10 +849,26 @@
           <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
           <folding>
             <element signature="e#16#30#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/study/unittest03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/unittest05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="22" selection-start-line="22" selection-end-line="23" />
+          <folding>
+            <element signature="e#15#30#0" expanded="true" />
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/loggingStudy/logging03.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
@@ -539,6 +887,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+=======
+    <entry file="file://$PROJECT_DIR$/study/unittest04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-234">
+          <caret selection-end-line="3" />
+          <folding>
+            <element signature="e#15#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/unittest02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="683">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Mysql/pyMysql/mysql.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_all_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+          <folding>
+            <element signature="e#23#38#0" expanded="true" />
+          </folding>
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
         </state>
       </provider>
     </entry>

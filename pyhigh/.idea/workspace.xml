@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78680dd6-68b8-4e46-8acd-4cae6e7cdfa2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pyhigh$threading1.coverage" NAME="threading1 Coverage Results" MODIFIED="1589713895340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread" />
+    <SUITE FILE_PATH="coverage/pyhigh$processpoll.coverage" NAME="processpoll Coverage Results" MODIFIED="1589909602972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread" />
+    <SUITE FILE_PATH="coverage/pyhigh$filecopy.coverage" NAME="filecopy Coverage Results" MODIFIED="1589915785146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread" />
+    <SUITE FILE_PATH="coverage/pyhigh$gevent.coverage" NAME="gevent Coverage Results" MODIFIED="1590299879043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread/协程" />
+    <SUITE FILE_PATH="coverage/pyhigh$process.coverage" NAME="process Coverage Results" MODIFIED="1589818447009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread" />
+    <SUITE FILE_PATH="coverage/pyhigh$iteration.coverage" NAME="iteration Coverage Results" MODIFIED="1590086158158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread/协程" />
+    <SUITE FILE_PATH="coverage/pyhigh$process1.coverage" NAME="process1 Coverage Results" MODIFIED="1589822849559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread" />
+    <SUITE FILE_PATH="coverage/pyhigh$ClassObject.coverage" NAME="ClassObject Coverage Results" MODIFIED="1590338726529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/learnPython/SmallTurtle" />
+    <SUITE FILE_PATH="coverage/pyhigh$threading2.coverage" NAME="threading2 Coverage Results" MODIFIED="1589716341965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread" />
+    <SUITE FILE_PATH="coverage/pyhigh$deepcopy.coverage" NAME="deepcopy Coverage Results" MODIFIED="1590322585244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/grammer" />
+    <SUITE FILE_PATH="coverage/pyhigh$11.coverage" NAME="11 Coverage Results" MODIFIED="1589398197786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pyhigh$iteration__1_.coverage" NAME="iteration (1) Coverage Results" MODIFIED="1590128161751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SmallTurtle" />
+    <SUITE FILE_PATH="coverage/pyhigh$geventttt.coverage" NAME="geventttt Coverage Results" MODIFIED="1590300443215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread/协程" />
+    <SUITE FILE_PATH="coverage/pyhigh$img_downloader.coverage" NAME="img_downloader Coverage Results" MODIFIED="1590301817585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread/协程" />
+    <SUITE FILE_PATH="coverage/pyhigh$threading.coverage" NAME="threading Coverage Results" MODIFIED="1589713345759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread" />
+    <SUITE FILE_PATH="coverage/pyhigh$threading5.coverage" NAME="threading5 Coverage Results" MODIFIED="1589738618771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread" />
+    <SUITE FILE_PATH="coverage/pyhigh$greenlet.coverage" NAME="greenlet Coverage Results" MODIFIED="1590299930740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread/协程" />
+    <SUITE FILE_PATH="coverage/pyhigh$generator.coverage" NAME="generator Coverage Results" MODIFIED="1590163812810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread/协程" />
+    <SUITE FILE_PATH="coverage/pyhigh$copyy.coverage" NAME="copyy Coverage Results" MODIFIED="1590323919756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/grammer" />
+    <SUITE FILE_PATH="coverage/pyhigh$threading4.coverage" NAME="threading4 Coverage Results" MODIFIED="1589732709535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/11.py" />
+        <option value="$PROJECT_DIR$/udp.py" />
+        <option value="$PROJECT_DIR$/udpchat.py" />
+        <option value="$PROJECT_DIR$/udpchathigh.py" />
+        <option value="$PROJECT_DIR$/tcp.py" />
+        <option value="$PROJECT_DIR$/tcpserver.py" />
+        <option value="$PROJECT_DIR$/filedownload.py" />
+        <option value="$PROJECT_DIR$/filedownloadclient.py" />
+        <option value="$PROJECT_DIR$/filedownloadserver.py" />
+        <option value="$PROJECT_DIR$/thread/threading.py" />
+        <option value="$PROJECT_DIR$/thread/threading1.py" />
+        <option value="$PROJECT_DIR$/thread/threading2.py" />
+        <option value="$PROJECT_DIR$/thread/threading4.py" />
+        <option value="$PROJECT_DIR$/thread/threading5.py" />
+        <option value="$PROJECT_DIR$/thread/program.py" />
+        <option value="$PROJECT_DIR$/thread/process.py" />
+        <option value="$PROJECT_DIR$/thread/process1.py" />
+        <option value="$PROJECT_DIR$/thread/processpoll.py" />
+        <option value="$PROJECT_DIR$/thread/filecopy.py" />
+        <option value="$PROJECT_DIR$/../SmallTurtle/iteration.py" />
+        <option value="$PROJECT_DIR$/thread/协程/iteration.py" />
+        <option value="$PROJECT_DIR$/thread/协程/generator.py" />
+        <option value="$PROJECT_DIR$/thread/协程/generator1.py" />
+        <option value="$PROJECT_DIR$/thread/协程/gevent.py" />
+        <option value="$PROJECT_DIR$/thread/协程/greenlet.py" />
+        <option value="$PROJECT_DIR$/thread/协程/geventttt.py" />
+        <option value="$PROJECT_DIR$/thread/协程/img_downloader.py" />
+        <option value="$PROJECT_DIR$/grammer/GIL/gil.py" />
+        <option value="$PROJECT_DIR$/grammer/deepcopy.py" />
+        <option value="$PROJECT_DIR$/grammer/copyy.py" />
+        <option value="D:/learnPython/SmallTurtle/ClassObject.py" />
+        <option value="$PROJECT_DIR$/grammer/importt/attention.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="y" value="3" />
+    <option name="width" value="1036" />
+    <option name="height" value="733" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="pyhigh" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="pyhigh" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="grammer" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SmallTurtle" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ClassObject">
+    <configuration name="ClassObject" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyhigh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/learnPython/SmallTurtle" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:/learnPython/SmallTurtle/ClassObject.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="copyy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyhigh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/grammer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/grammer/copyy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="deepcopy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyhigh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/grammer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/grammer/deepcopy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="geventttt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyhigh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/thread/协程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thread/协程/geventttt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="img_downloader" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyhigh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/thread/协程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thread/协程/img_downloader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.geventttt" />
+      <item itemvalue="Python.img_downloader" />
+      <item itemvalue="Python.deepcopy" />
+      <item itemvalue="Python.copyy" />
+      <item itemvalue="Python.ClassObject" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ClassObject" />
+        <item itemvalue="Python.copyy" />
+        <item itemvalue="Python.deepcopy" />
+        <item itemvalue="Python.img_downloader" />
+        <item itemvalue="Python.geventttt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78680dd6-68b8-4e46-8acd-4cae6e7cdfa2" name="Default Changelist" comment="" />
+      <created>1589390202943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589390202943</updated>
+      <workItem from="1589390204027" duration="7588000" />
+      <workItem from="1589443811457" duration="1276000" />
+      <workItem from="1589472716879" duration="10343000" />
+      <workItem from="1589568277563" duration="27517000" />
+      <workItem from="1589903306897" duration="10632000" />
+      <workItem from="1590058294557" duration="20122000" />
+      <workItem from="1590303599079" duration="12328000" />
+      <workItem from="1590942725623" duration="1139000" />
+      <workItem from="1591210498076" duration="64000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="91009000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14392324" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22947131" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39915073" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/thread/协程/geventttt.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/udpchat.py" />
+    <entry file="file://$PROJECT_DIR$/udpchathigh.py" />
+    <entry file="file://$PROJECT_DIR$/11.py" />
+    <entry file="file://$PROJECT_DIR$/tcpclient.py" />
+    <entry file="file://$PROJECT_DIR$/tcpserver.py" />
+    <entry file="file://$PROJECT_DIR$/filedownloadclient.py" />
+    <entry file="file://$PROJECT_DIR$/filedownloadserver.py" />
+    <entry file="file://$PROJECT_DIR$/udp.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="1159" lean-forward="true" selection-start-line="1159" selection-end-line="1159" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket/udpchat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-390" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread/threading5.py" />
+    <entry file="file://$PROJECT_DIR$/thread/threading4.py" />
+    <entry file="file://$PROJECT_DIR$/thread/threading2.py" />
+    <entry file="file://$PROJECT_DIR$/thread/threading1.py" />
+    <entry file="file://$PROJECT_DIR$/thread/threading.py" />
+    <entry file="file://$PROJECT_DIR$/thread/process.py" />
+    <entry file="file://$PROJECT_DIR$/thread/process1.py" />
+    <entry file="file://$PROJECT_DIR$/thread/processpoll.py" />
+    <entry file="file://$PROJECT_DIR$/thread/filecopy.py" />
+    <entry file="file://$PROJECT_DIR$/thread/线程/threading5.py" />
+    <entry file="file://$PROJECT_DIR$/thread/线程/threading4.py" />
+    <entry file="file://$PROJECT_DIR$/thread/线程/threading2.py" />
+    <entry file="file://$PROJECT_DIR$/thread/进程/process1.py" />
+    <entry file="file://$PROJECT_DIR$/thread/进程/process.py" />
+    <entry file="file://$PROJECT_DIR$/thread/进程/filecopy.py" />
+    <entry file="file://$PROJECT_DIR$/thread/进程/processpoll.py" />
+    <entry file="file://$PROJECT_DIR$/thread/协程/generator.py" />
+    <entry file="file://$PROJECT_DIR$/thread/协程/generator1.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/gevent/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-546" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread/协程/greenlet.py" />
+    <entry file="file://$PROJECT_DIR$/thread/协程/geventttt.py" />
+    <entry file="file://$PROJECT_DIR$/thread/协程/iteration.py" />
+    <entry file="file://$PROJECT_DIR$/thread/协程/img_downloader.py" />
+    <entry file="file://$PROJECT_DIR$/../SmallTurtle/iteration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="76" column="10" selection-start-line="76" selection-start-column="10" selection-end-line="76" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grammer/deepcopy.py" />
+    <entry file="file://$PROJECT_DIR$/grammer/copyy.py" />
+    <entry file="file://D:/learnPython/Python100/Python8ObjectBasement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+          <folding>
+            <element signature="e#15#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/learnPython/Python100/Python9ObjectEnhencement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8127" />
+      </provider>
+    </entry>
+    <entry file="file://D:/learnPython/SmallTurtle/ClassObject.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1664">
+          <caret line="131" column="8" selection-start-line="131" selection-start-column="8" selection-end-line="131" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grammer/GIL/gil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grammer/importt/attention.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

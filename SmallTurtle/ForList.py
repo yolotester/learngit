@@ -85,9 +85,15 @@ yolo.extend(['yo','lo','sun'])
 print(yolo,len(yolo))              # [1, 2, 3, 4, 'yo', 'lo', 'sun'] 7
 print(yolo.append(yl))           # 返回NOne
 
+<<<<<<< HEAD
 
 
 
+=======
+
+
+
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
 # 通过索引获取列表元素值
 print(yl[0])
 print(yl[1])
@@ -106,6 +112,17 @@ yp = [0,1,3,5,8,4,4]
 yp.remove(4)        # [0, 1, 3, 5, 8, 4],删除了第一个数字4
 print(yp)
 print('88888')
+<<<<<<< HEAD
+
+# del[index]语句   通过索引删除具体元素，类似于调用list中__delitem__这个魔法方法，无返回值
+del yp[2]
+print(yp)     # [0, 1, 5, 8, 4]，删除了索引是2的元素3
+print(yp.__delitem__(4))     # 返回None，但已经默默的删除了索引值为4的元素4
+
+# pop[index]方法  删除列表最后一个元素  括号内为索引值1，则删除索引值为1的元素，有返回值
+yp.pop(1)      # 删除了索引值为1的元素1
+print(yp)     # [0, 5, 8]
+=======
 
 # del[index]语句   通过索引删除具体元素，类似于调用list中__delitem__这个魔法方法，无返回值
 del yp[2]
@@ -119,11 +136,19 @@ print(yp)     # [0, 5, 8]
 
 
 
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
 
 
 
 
 
+<<<<<<< HEAD
+
+
+
+
+=======
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
 # slice分片   列表的复制  [start:stop:步长]
 spring = yl[:]
 print(spring)
@@ -268,6 +293,7 @@ for val in line:
     print('i:',i,val)
     i += 1
 
+<<<<<<< HEAD
 fe.close()
 
 # 写入文件
@@ -282,6 +308,18 @@ print(li3)
 
 
 i = 0   # 构造一个循环控制变量，控制循环次数，构造循环条件的变量，用i做判断条件，这里做初始化
+=======
+# 写入文件
+fe = open(r'D:\Git\learngit\test2.txt','w')
+li = ['dou','doudou1','doudou2','doudou3']
+li2 = range(1,10)
+li3 = li + [li2]    # li3这个列表包含字符串和数字
+print(li,'11111')
+print(li2)
+print(li3)
+
+i = 0 # 构造一个循环控制变量，控制循环次数，构造循环条件的变量，用i做判断条件，这里做初始化
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
 while i <= len(li) -1:
     fe.write(li[i] + '\n')    # write(str),这个方法只能写入字符串，且会覆盖文件中的原有内容
     i = i + 1           # 这里做修正
@@ -290,6 +328,7 @@ i = 0
 while i <= len(li2) -1:
     fe.write(str(li2[i]) + '\n')
     i += 1
+<<<<<<< HEAD
 
 fe.close()
 
@@ -304,6 +343,36 @@ fe.close()
 #         fe.write(li3[i] + '\n')
 #
 #     i +=1
+=======
+fe.close()
+
+# 混合型数据写入文件.字符串/整型/字符型数据
+lt1 = list(range(1,10))
+lt2 = ['yolo','doudou']
+lt3 = lt1 + lt2
+print(lt3)
+lt3.append(85.2523)
+print(lt3)
+# isinstance(obj,type)  如果obj是type类型，返回true
+
+print('write str/num to file...')
+
+fe = open(r'D:\Git\learngit\test.txt','w')
+i = 0
+while i <=len(lt3) -1:
+
+    if isinstance(lt3[i],int):
+        fe.write(str(lt3[i]) + '\n')
+    elif isinstance( lt3[i] ,float):
+        fe.write(str(lt3[i]) + '\n')
+    else:
+        fe.write(lt3[i] + '\n ')
+    i += 1
+fe.close()
+
+# 问题：列表中包含列表这种数据如何写入文件
+
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
 
 
 

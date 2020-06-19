@@ -83,7 +83,7 @@ fe.close()
 
 # 循环体与文件  while和readline    for 和file_obj
 fr = open('D:\\dd.txt','r')
-line = fr.readline()
+line = fr.readline()       # readline读到文件尾部，返回一个‘’空字符串
 while line !='':
     line = line.rstrip('\n')
     print(line)
