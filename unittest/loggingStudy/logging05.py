@@ -46,4 +46,4 @@ except (SystemExit, KeyboardInterrupt):
 except Exception:
     # logger.error('Faild to open yolo.txt from logger.error', exc_info =True)
     # 或者用下面这种写法,与上面写法等价
-    logger.exception('Faild to open yolo.txt from logger.exception')
+    logger.exception('Faild to open yolo.txt from logger.exception', exc_info=True)

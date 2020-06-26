@@ -1,6 +1,8 @@
 # coding= utf-8
 
 import logging
+import loggingStudyHigh.sonmoDule
+
 
 logger = logging.getLogger('fatherModule')
 # 定义了logger'fatherModule'，并进行配置，定义该logger的子logger，都可以共享父logger的定义和配置
@@ -30,9 +32,11 @@ logger.addHandler(console)
 
 
 logger.info('creating an object of sonmodule.SonModuleClass')
-a = sonmodule.SonModuleClass()
+a = loggingStudyHigh.sonmoDule.SonModuleClass()
 logger.info('calling sonmodule.SonModuleClass')
 a.doSomething()
 logger.info('done with sonmodule.SonModuleClass.doSomething')
 logger.info('calling sonmodule.some_function')
+loggingStudyHigh.sonmoDule.son_function()
+logger.info('done with sonmodule.son_function')
 

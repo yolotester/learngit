@@ -1,0 +1,28 @@
+2020-06-20 20:04:58,343-fatherModule-INFO-creating an object of sonmodule.SonModuleClass
+2020-06-20 20:15:06,460-fatherModule-INFO-creating an object of sonmodule.SonModuleClass
+2020-06-20 20:18:34,734-fatherModule-INFO-creating an object of sonmodule.SonModuleClass
+2020-06-20 20:18:34,734-fatherModule-INFO-calling sonmodule.SonModuleClass
+2020-06-20 20:18:34,734-fatherModule-INFO-done with sonmodule.SonModuleClass.doSomething
+2020-06-20 20:18:34,735-fatherModule-INFO-calling sonmodule.some_function
+2020-06-20 20:27:42,995-fatherModule-INFO-creating an object of sonmodule.SonModuleClass
+2020-06-20 20:27:42,996-fatherModule.son.module-INFO-creating an instance in SonModuleClass
+2020-06-20 20:27:42,996-fatherModule-INFO-calling sonmodule.SonModuleClass
+2020-06-20 20:27:42,996-fatherModule.son.module-INFO-do something in sonmodule
+2020-06-20 20:27:42,997-fatherModule.son.module-INFO-finish something in SonModuleClass
+2020-06-20 20:27:42,997-fatherModule-INFO-done with sonmodule.SonModuleClass.doSomething
+2020-06-20 20:27:42,997-fatherModule-INFO-calling sonmodule.some_function
+2020-06-21 09:21:57,696-fatherModule-INFO-creating an object of sonmodule.SonModuleClass
+2020-06-21 09:21:57,696-fatherModule.son.module-INFO-creating an instance in SonModuleClass
+2020-06-21 09:21:57,696-fatherModule-INFO-calling sonmodule.SonModuleClass
+2020-06-21 09:21:57,696-fatherModule.son.module-INFO-do something in sonmodule
+2020-06-21 09:21:57,696-fatherModule.son.module-INFO-finish something in SonModuleClass
+2020-06-21 09:21:57,696-fatherModule-INFO-done with sonmodule.SonModuleClass.doSomething
+2020-06-21 09:21:57,696-fatherModule-INFO-calling sonmodule.some_function
+2020-06-21 09:23:42,976-fatherModule-INFO-creating an object of sonmodule.SonModuleClass
+2020-06-21 09:23:42,976-fatherModule.son.module-INFO-creating an instance in SonModuleClass
+2020-06-21 09:23:42,976-fatherModule-INFO-calling sonmodule.SonModuleClass
+2020-06-21 09:23:42,976-fatherModule.son.module-INFO-do something in sonmodule
+2020-06-21 09:23:42,976-fatherModule.son.module-INFO-finish something in SonModuleClass
+2020-06-21 09:23:42,976-fatherModule-INFO-done with sonmodule.SonModuleClass.doSomething
+2020-06-21 09:23:42,976-fatherModule-INFO-calling sonmodule.some_function
+2020-06-21 09:23:42,976-fatherModule.son-INFO-call function son_function

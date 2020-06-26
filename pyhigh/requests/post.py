@@ -1,7 +1,12 @@
 import requests
 import json
+requests.packages.urllib3.disable_warnings()  # 解决ssl验证InsecureRequestWarning提示
 
-url = 'http://httpbin.org'
+url = 'https://httpbin.org/post'
+headers = {'Host':'httpbin.org', 'Connection':'keep-alive'}
+data_json = json.dumps(headers)
+res = requests.post(url=url, headers=headers, verify=False)
+print(res.text)
 
 def build_url(endpoint):
     return '/'.join([url,endpoint])
@@ -77,7 +82,7 @@ def stream_upload_post_request():
         print('>>>>>>test false')
 
 
-if __name__ == '__main__':
+#if __name__ == '__main__':
     #have_data_post_request()
     #　have_json_post_request()
     # hava_params_post_request()
@@ -85,4 +90,4 @@ if __name__ == '__main__':
     #　special_file_post_request()
     #　multi_file_post_request()
     # stream_upload_post_request()
-    have_header_post_request()
+    # have_header_post_request()
