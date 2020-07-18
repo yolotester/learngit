@@ -15,14 +15,14 @@ def main():
     server_ip = input('请输入要链接的服务器的IP：')
     server_port = int(input('请输入要链接的服务器的port：'))
     server_addr  = (server_ip,server_port)  # 元组存储数据
-    tcp_socket.connect(server_addr)
+    tcp_socket.connect(server_addr)  # 默认是阻塞的，直到tcp三次握手结束才解阻塞，才能发数据
 
     # 发送数据
     send_data = input('请输入你要发送的数据：')
-    tcp_socket.send(send_data.encode('utf-8'))
+    tcp_socket.send(send_data.encode('utf-8'))  # send()方法数据格式为字节型数据，需要编码
 
     # 接收数据
-    tcp_socket.recv(1024)
+    tcp_socket.recv(1024)  # 收到的数据为普通数据
 
     # 关闭套接字
     tcp_socket.close()
