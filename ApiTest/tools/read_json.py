@@ -37,7 +37,7 @@ class Read_Json(object):
 '''
 if __name__ == '__main__':
 
-    data = Read_Json("/login.json").read_json()
+    data = Read_Json("login.json").read_json()
 
     # 新建空列表，添加读取json数据
     arrs = []

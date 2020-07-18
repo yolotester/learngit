@@ -12,6 +12,7 @@ import xlrd
 
 # 打开excel文件读取数据
 data = xlrd.open_workbook(r'C:\Users\yolo\Desktop\studyxlrd.xlsx')  # 文件名以及路径，若文件名或路径中包含中文，前面加一个r，表示原生字符
+print(data)
 
 # 常用的函数就是book和sheet的操作
 # 1、获取book中的一个工作表
@@ -67,3 +68,4 @@ value = table.cell_value(0, 0)  # 返回单元格中的数据
 print(value)
 # index = table.cell_xf_index(0, 0)  没有搞懂
 # # print(index)
+

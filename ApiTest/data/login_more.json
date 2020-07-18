@@ -1,0 +1,15 @@
+{ "login_001": {
+                "url": "http://localhost:8080/j_acegi_security_check",
+                "user": "admin",
+                 "pwd": "aaaa2222",
+                "expect_result": "admin",
+                "status_code": 200
+                },
+  "login_002": {
+                "url": "http://localhost:8080/j_acegi_security_check",
+                "user": "admin1",
+                 "pwd": "aaaa2222",
+                "expect_result": "admin",
+                "status_code": 401
+                }
+  }
