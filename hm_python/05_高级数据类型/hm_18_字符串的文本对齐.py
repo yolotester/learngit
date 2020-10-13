@@ -9,6 +9,6 @@ poem = [
 ]
 
 for poem_str in poem:
-    print("|%s|" % poem_str.center(10, " "))  # 居中
+    pri # 右对齐nt("|%s|" % poem_str.center(10, " "))  # 居中
     print("|%s|" % poem_str.ljust(10, " "))  # 左对齐
-    print("|%s|" % poem_str.rjust(10, " "))  # 右对齐
+    print("|%s|" % poem_str.rjust(10, " "))

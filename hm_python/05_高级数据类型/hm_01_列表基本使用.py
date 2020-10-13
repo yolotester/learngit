@@ -21,13 +21,13 @@ name_list.append("hhh")
 # insert方法可以在列表的 指定索引位置 插入数据
 name_list.insert(1, "ooo")
 
-# extend方法可以把其他列表完整内容，追加到当前列表的末尾
+# extend方法可以把  其他列表完整内容  ，追加到当前列表的末尾
 temp_list = ["hello", "python"]
 name_list.extend(temp_list)
 
 
 # 4、删除
-# remove方法可以从列表中删除 指定的数据
+# remove方法可以从列表中删除 指定的数据(第一次出现的数据)
 name_list.remove("ooo")
 # pop方法默认可以把列表中最后一个元素删除，返回删除的元素
 item = name_list.pop()

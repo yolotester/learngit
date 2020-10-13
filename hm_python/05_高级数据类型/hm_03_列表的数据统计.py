@@ -5,7 +5,7 @@ list_len = len(name_list)
 print("列表中包含 %d 个元素" % list_len)
 
 
-# count方法可以统计列表中 某一个数据出现的次数
+# count方法可以统计列表中 某一个数据 出现的次数
 count = name_list.count("san")
 print("san 出现了 %d 次" % count)
 

@@ -11,6 +11,6 @@ del name
 
 # 注意：使用del关键字将变量从内存中删除后
 # 后续的代码就不能使用这个变量了
-print(name)
+# print(name)  # NameError: name 'name' is not defined
 
 print(name_list)
