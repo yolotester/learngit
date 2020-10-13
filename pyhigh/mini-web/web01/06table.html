@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>表格学习</title>
+</head>
+<body topmargin="0">
+	<h1>  表格学习 </h1>
+	<!-- border 设置表格的边框
+	 width 设置表格的宽度
+	 height 设置表格的高度
+	 align  设置表格相对于浏览器窗口的水平对齐方式 left right center
+	 cellpadding 单元格内容与边框的距离 
+	cellspacing 单元格与单元格之间的距离
+
+	-->
+
+	<table border="1" cellpadding="20" cellspacing="20">
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+	</table>
+
+
+	<table border="1" width="450" height='200' align="center">
+
+		<!-- tr  表格一行
+			td  单元格
+			th 表头
+			align 表格中文字水平对齐方式
+			valign 表格中文字垂直对齐方式
+			colspan 水平合并单元格
+			rowspan  垂直合并单元格
+			cellpadding 单元格内容与边框的距离 
+			cellspacing 单元格与单元格之间的距离
+		-->
+
+		<tr>
+			<th>1</th>
+			<th>2</th>
+			<th>3</th>
+		</tr>
+		
+		<tr>
+			<td align="center">1</td>
+			<td align="right">2</td>
+			<td align="left">3</td>
+		</tr>
+		<tr>
+			<td valign="top" align="center">1</td>
+			<td valign="middle">2</td>
+			<td valign="bottom">3</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>2</td>
+			<td>3</td>
+		</tr>
+
+
+	</table>
+	
+	<!-- table>(tr>td*5)*6 -->
+	<table border="1" width="600" height="300" align="center"> 
+		<tr>
+			<td colspan="5"> 基本情况 </td>
+			
+		</tr>
+		<tr>
+			<td width="20%"> </td>
+			<td width="20%"></td>
+			<td width="10%"></td>
+			<td width="50%"></td>
+			<td rowspan="5" width="10%"><img src="images/photo_2020-05-12_02-28-12.jpg" alt="人物图片"></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			
+		</tr>
+	</table>
+
+
+
+
+
+
+</body>
+</html>
