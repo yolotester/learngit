@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43421f87-27a9-4de3-af62-aa2fb5187402" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../01_Python基础/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Python基础/hm_01_hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Python基础/hm_02_第2个python程序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Python基础/hm_03_注释.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Python基础/hm_04_变量定义.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Python基础/hm_05_变量类型.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Python基础/hm_06_变量输入.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Python基础/hm_07_格式化输出.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_分支/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_分支/hm_01_判断年龄.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_分支/hm_02_判断年龄改进版.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_分支/hm_03_逻辑运算演练.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_分支/hm_04_elif语句演练.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_分支/hm_05_火车站演练.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_分支/hm_06_石头剪刀布.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03_循环/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03_循环/hm_01_第一个while循环.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03_循环/hm_02_程序计数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03_循环/hm_03_循环计算-累加求和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03_循环/hm_04_循环计算-累加求和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03_循环/hm_05_break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03_循环/hm_06_continue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03_循环/hm_07_打印小星星.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03_循环/hm_08_print函数的结尾.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03_循环/hm_09_嵌套打印小星星.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03_循环/hm_10_九九乘法表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03_循环/hm_11_转义字符.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_01_函数封装九九乘法表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_02_体验函数调用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_03_第一个函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_04_第一个函数改造.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_05_函数的参数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_06_函数的返回值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_07_函数的嵌套调用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_08_打印分隔线.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_09_打印多条分隔线.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_10_体验模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_10_分隔线模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KnowPython/01-HelloPython.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microsoft Edge.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Postman.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../Postman.lnk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSG七星项目.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snipaste.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Telegram.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../Telegram.lnk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WPS 2019.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lrgs（公司）占成30%，赚水0.012.xmind" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../py数据类型区别.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo上线需求整理表.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../文本合集/git学习命令" beforeDir="false" afterPath="$PROJECT_DIR$/../文本合集/git学习命令" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../文本合集/python学习错误提示" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../文本合集/工作日志" beforeDir="false" afterPath="$PROJECT_DIR$/../文本合集/工作日志" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../文本合集/线上支付方式" beforeDir="false" afterPath="$PROJECT_DIR$/../文本合集/线上支付方式" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../新建文本文档.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../日报表（期数）算法待完善.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../火柴.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../火柴.lnk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../虎牙直播.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../迅雷.lnk" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/04_$hm_07_.coverage" NAME="hm_07_函数的嵌套调用 Coverage Results" MODIFIED="1602432943510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/04_$hm_03_.coverage" NAME="hm_03_第一个函数 Coverage Results" MODIFIED="1602427526650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/04_$hm_02_.coverage" NAME="hm_02_体验函数调用 Coverage Results" MODIFIED="1602427016660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/04_$hm_06_.coverage" NAME="hm_06_函数的返回值 Coverage Results" MODIFIED="1602430683098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/04_$hm_08_.coverage" NAME="hm_08_打印分隔线 Coverage Results" MODIFIED="1602433392235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/04_$hm_05_.coverage" NAME="hm_05_函数的参数 Coverage Results" MODIFIED="1602429365144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/04_$hm_10_.coverage" NAME="hm_10_体验模块 Coverage Results" MODIFIED="1602458173281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/04_$hm_09_.coverage" NAME="hm_09_打印多条分隔线 Coverage Results" MODIFIED="1602434057507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/04_$hm_01__.coverage" NAME="hm_01_函数封装-九九乘法表 Coverage Results" MODIFIED="1602426789741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/04_$hm_04_.coverage" NAME="hm_04_第一个函数改造 Coverage Results" MODIFIED="1602428126066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hm_05_函数的参数.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="16" lean-forward="true" selection-start-line="7" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hm_06_函数的返回值.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hm_07_函数的嵌套调用.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hm_08_打印分隔线.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="9" selection-end-line="10" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hm_09_打印多条分隔线.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="21" lean-forward="true" selection-start-line="10" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hm_02_体验函数调用.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hm_10_分隔线模块.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="49" selection-start-column="49" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hm_10_体验模块.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hm_01_函数封装九九乘法表.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hm_01_函数封装-九九乘法表.py" />
+        <option value="$PROJECT_DIR$/hm_02_体验函数调用.py" />
+        <option value="$PROJECT_DIR$/hm_03_第一个函数.py" />
+        <option value="$PROJECT_DIR$/hm_04_第一个函数改造.py" />
+        <option value="$PROJECT_DIR$/hm_05_函数的参数.py" />
+        <option value="$PROJECT_DIR$/hm_06_函数的返回值.py" />
+        <option value="$PROJECT_DIR$/hm_07_函数的嵌套调用.py" />
+        <option value="$PROJECT_DIR$/hm_08_打印分隔线.py" />
+        <option value="$PROJECT_DIR$/hm_09_打印多条分隔线.py" />
+        <option value="$PROJECT_DIR$/hm_10_分隔线模块.py" />
+        <option value="$PROJECT_DIR$/hm_10_体验模块.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="133" />
+    <option name="width" value="1038" />
+    <option name="height" value="733" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="04_函数" type="b2602c69:ProjectViewProjectNode" />
+              <item name="04_函数" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.hm_10_体验模块">
+    <configuration name="hm_06_函数的返回值" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="04_函数" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_06_函数的返回值.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hm_07_函数的嵌套调用" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="04_函数" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_07_函数的嵌套调用.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hm_08_打印分隔线" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="04_函数" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_08_打印分隔线.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hm_09_打印多条分隔线" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="04_函数" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_09_打印多条分隔线.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hm_10_体验模块" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="04_函数" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_10_体验模块.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.hm_10_体验模块" />
+        <item itemvalue="Python.hm_09_打印多条分隔线" />
+        <item itemvalue="Python.hm_08_打印分隔线" />
+        <item itemvalue="Python.hm_07_函数的嵌套调用" />
+        <item itemvalue="Python.hm_06_函数的返回值" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43421f87-27a9-4de3-af62-aa2fb5187402" name="Default Changelist" comment="" />
+      <created>1602426470938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602426470938</updated>
+      <workItem from="1602426479504" duration="8032000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8032000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="133" y="0" width="1038" height="733" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24951077" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32998326" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.30992737" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hm_03_第一个函数.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hm_03_第一个函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="11" lean-forward="true" selection-start-line="2" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_04_第一个函数改造.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_05_函数的参数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="16" lean-forward="true" selection-start-line="7" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_06_函数的返回值.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_07_函数的嵌套调用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_08_打印分隔线.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_01_函数封装九九乘法表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_02_体验函数调用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_09_打印多条分隔线.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="21" lean-forward="true" selection-start-line="10" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_10_分隔线模块.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="49" selection-start-column="49" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_10_体验模块.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
