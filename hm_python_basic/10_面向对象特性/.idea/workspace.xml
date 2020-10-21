@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3fb9bf28-0309-4bf5-9c34-217745ad0f36" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../01_Python基础/.idea/01_Python基础.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Python基础/.idea/01_Python基础.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Python基础/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Python基础/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Python基础/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Python基础/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Python基础/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Python基础/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_分支/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02_分支/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_语法进阶/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../07_语法进阶/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_语法进阶/hm_15_多值参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/../07_语法进阶/hm_15_多值参数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_语法进阶/hm_16_多值参数求和.py" beforeDir="false" afterPath="$PROJECT_DIR$/../07_语法进阶/hm_16_多值参数求和.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_语法进阶/hm_17_元组和字典的拆包.py" beforeDir="false" afterPath="$PROJECT_DIR$/../07_语法进阶/hm_17_元组和字典的拆包.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_语法进阶/hm_18_递归函数的特点.py" beforeDir="false" afterPath="$PROJECT_DIR$/../07_语法进阶/hm_18_递归函数的特点.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_语法进阶/hm_19_递归计算数字累加.py" beforeDir="false" afterPath="$PROJECT_DIR$/../07_语法进阶/hm_19_递归计算数字累加.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_面向对象基础/hm_01_第一个面向对象.py" beforeDir="false" afterPath="$PROJECT_DIR$/../08_面向对象基础/hm_01_第一个面向对象.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_面向对象基础/hm_02_创建两个猫对象.py" beforeDir="false" afterPath="$PROJECT_DIR$/../08_面向对象基础/hm_02_创建两个猫对象.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_面向对象基础/hm_03_设置对象属性.py" beforeDir="false" afterPath="$PROJECT_DIR$/../08_面向对象基础/hm_03_设置对象属性.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_面向对象基础/hm_04_在外界设置属性的隐患.py" beforeDir="false" afterPath="$PROJECT_DIR$/../08_面向对象基础/hm_04_在外界设置属性的隐患.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_面向对象基础/hm_05_初始化方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/../08_面向对象基础/hm_05_初始化方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_面向对象基础/hm_06_使用参数设置属性初始值.py" beforeDir="false" afterPath="$PROJECT_DIR$/../08_面向对象基础/hm_06_使用参数设置属性初始值.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_面向对象基础/hm_07___del__方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/../08_面向对象基础/hm_07___del__方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_面向对象基础/hm_08___str__方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/../08_面向对象基础/hm_08___str__方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_面向对象练习/hm_01_小明爱跑步.py" beforeDir="false" afterPath="$PROJECT_DIR$/../09_面向对象练习/hm_01_小明爱跑步.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_面向对象练习/hm_02_小明爱跑步扩展.py" beforeDir="false" afterPath="$PROJECT_DIR$/../09_面向对象练习/hm_02_小明爱跑步扩展.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_面向对象练习/hm_03_摆放家具_01_家具类.py" beforeDir="false" afterPath="$PROJECT_DIR$/../09_面向对象练习/hm_03_摆放家具_01_家具类.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_面向对象练习/hm_04_摆放家具_02_房子类.py" beforeDir="false" afterPath="$PROJECT_DIR$/../09_面向对象练习/hm_04_摆放家具_02_房子类.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_面向对象练习/hm_05_摆放家具_03_完成添加家具.py" beforeDir="false" afterPath="$PROJECT_DIR$/../09_面向对象练习/hm_05_摆放家具_03_完成添加家具.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_面向对象练习/hm_06_士兵突击_01_枪类.py" beforeDir="false" afterPath="$PROJECT_DIR$/../09_面向对象练习/hm_06_士兵突击_01_枪类.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_面向对象练习/hm_07_士兵突击_02_士兵类.py" beforeDir="false" afterPath="$PROJECT_DIR$/../09_面向对象练习/hm_07_士兵突击_02_士兵类.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_面向对象练习/hm_08_私有属性和私有方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/../09_面向对象练习/hm_08_私有属性和私有方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_面向对象练习/hm_09_伪私有属性和私有方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/../09_面向对象练习/hm_09_伪私有属性和私有方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm_01_不使用继承开发动物类和狗类.py" beforeDir="false" afterPath="$PROJECT_DIR$/hm_01_不使用继承开发动物类和狗类.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm_02_使用继承开发动物类和狗类.py" beforeDir="false" afterPath="$PROJECT_DIR$/hm_02_使用继承开发动物类和狗类.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm_03_继承的传递性.py" beforeDir="false" afterPath="$PROJECT_DIR$/hm_03_继承的传递性.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm_04_继承的传递性的注意事项.py" beforeDir="false" afterPath="$PROJECT_DIR$/hm_04_继承的传递性的注意事项.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm_05_覆盖父类方法（重写）.py" beforeDir="false" afterPath="$PROJECT_DIR$/hm_05_覆盖父类方法（重写）.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm_06_扩展父类方法（重写）.py" beforeDir="false" afterPath="$PROJECT_DIR$/hm_06_扩展父类方法（重写）.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm_07_父类的私有属性和私有方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/hm_07_父类的私有属性和私有方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm_08_父类的公有属性和公有方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/hm_08_父类的公有属性和公有方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sumDoc/GIT.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../sumDoc/GIT.docx" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/10_$hm_03_.coverage" NAME="hm_03_继承的传递性 Coverage Results" MODIFIED="1603235740426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/10_$hm_08_.coverage" NAME="hm_08_父类的公有属性和公有方法 Coverage Results" MODIFIED="1603239132880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/10_$hm_07_.coverage" NAME="hm_07_父类的私有属性和私有方法 Coverage Results" MODIFIED="1603238188161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/10_$hm_01_.coverage" NAME="hm_01_不使用继承开发动物类和狗类 Coverage Results" MODIFIED="1603234776518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/10_$hm_05_.coverage" NAME="hm_05_覆盖父类方法（重写） Coverage Results" MODIFIED="1603236162588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/10_$hm_06_.coverage" NAME="hm_06_扩展父类方法（重写） Coverage Results" MODIFIED="1603236809336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/10_$hm_02_.coverage" NAME="hm_02_使用继承开发动物类和狗类 Coverage Results" MODIFIED="1603235218930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../08_面向对象基础/hm_01_第一个面向对象.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hm_01_不使用继承开发动物类和狗类.py" />
+        <option value="$PROJECT_DIR$/hm_02_使用继承开发动物类和狗类.py" />
+        <option value="$PROJECT_DIR$/hm_03_继承的传递性.py" />
+        <option value="$PROJECT_DIR$/hm_04_继承的传递性的注意事项.py" />
+        <option value="$PROJECT_DIR$/hm_05_覆盖父类方法（重写）.py" />
+        <option value="$PROJECT_DIR$/hm_06_扩展父类方法（重写）.py" />
+        <option value="$PROJECT_DIR$/hm_07_父类的私有属性和私有方法.py" />
+        <option value="$PROJECT_DIR$/hm_08_父类的共有属性和共有方法.py" />
+        <option value="$PROJECT_DIR$/hm_08_父类的公有属性和公有方法.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="81" />
+    <option name="y" value="6" />
+    <option name="width" value="1296" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="10_面向对象特性" type="b2602c69:ProjectViewProjectNode" />
+              <item name="10_面向对象特性" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.hm_08_父类的公有属性和公有方法">
+    <configuration name="hm_03_继承的传递性" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="10_面向对象特性" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_03_继承的传递性.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hm_05_覆盖父类方法（重写）" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="10_面向对象特性" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_05_覆盖父类方法（重写）.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hm_06_扩展父类方法（重写）" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="10_面向对象特性" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_06_扩展父类方法（重写）.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hm_07_父类的私有属性和私有方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="10_面向对象特性" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_07_父类的私有属性和私有方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hm_08_父类的公有属性和公有方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="10_面向对象特性" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_08_父类的公有属性和公有方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.hm_08_父类的公有属性和公有方法" />
+        <item itemvalue="Python.hm_07_父类的私有属性和私有方法" />
+        <item itemvalue="Python.hm_06_扩展父类方法（重写）" />
+        <item itemvalue="Python.hm_05_覆盖父类方法（重写）" />
+        <item itemvalue="Python.hm_03_继承的传递性" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fb9bf28-0309-4bf5-9c34-217745ad0f36" name="Default Changelist" comment="" />
+      <created>1603234484732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603234484732</updated>
+      <workItem from="1603234493224" duration="5135000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5135000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16666667" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32934782" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" side_tool="true" visible="true" weight="0.0515625" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hm_03_继承的传递性.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hm_02_使用继承开发动物类和狗类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_01_不使用继承开发动物类和狗类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="12" column="18" lean-forward="true" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_03_继承的传递性.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="15" selection-end-line="31" selection-end-column="28" />
+          <folding>
+            <element signature="e#19#173#0" />
+            <element signature="e#212#243#0" />
+            <element signature="e#301#331#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_07_父类的私有属性和私有方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="8" column="18" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_06_扩展父类方法（重写）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+          <folding>
+            <element signature="e#19#173#0" />
+            <element signature="e#200#236#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_04_继承的传递性的注意事项.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+          <folding>
+            <element signature="e#19#173#0" />
+            <element signature="e#200#236#0" />
+            <element signature="e#269#304#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_05_覆盖父类方法（重写）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#19#173#0" />
+            <element signature="e#200#236#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_08_父类的公有属性和公有方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-624">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../08_面向对象基础/hm_01_第一个面向对象.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -2,26 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9dcef760-d4c7-4b83-b0d7-1b652d48d252" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../01-HelloPython.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Microsoft Edge.lnk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Postman.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../../Postman.lnk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SSG七星项目.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Snipaste.lnk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Telegram.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../../Telegram.lnk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WPS 2019.lnk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../desktop.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lrgs（公司）占成30%，赚水0.012.xmind" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../py数据类型区别.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../yolo上线需求整理表.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../文本合集/git学习命令" beforeDir="false" afterPath="$PROJECT_DIR$/../../文本合集/git学习命令" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../文本合集/python学习错误提示" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../文本合集/工作日志" beforeDir="false" afterPath="$PROJECT_DIR$/../../文本合集/工作日志" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../文本合集/线上支付方式" beforeDir="false" afterPath="$PROJECT_DIR$/../../文本合集/线上支付方式" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../新建文本文档.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../日报表（期数）算法待完善.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../火柴.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../../火柴.lnk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../虎牙直播.lnk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../迅雷.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Python基础/.idea/01_Python基础.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Python基础/.idea/01_Python基础.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Python基础/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Python基础/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Python基础/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Python基础/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Python基础/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Python基础/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Python基础/hm_06_变量输入.py" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Python基础/hm_06_变量输入输出.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_语法进阶/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../07_语法进阶/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_语法进阶/hm_15_多值参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/../07_语法进阶/hm_15_多值参数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_语法进阶/hm_16_多值参数求和.py" beforeDir="false" afterPath="$PROJECT_DIR$/../07_语法进阶/hm_16_多值参数求和.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_语法进阶/hm_17_元组和字典的拆包.py" beforeDir="false" afterPath="$PROJECT_DIR$/../07_语法进阶/hm_17_元组和字典的拆包.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_语法进阶/hm_18_递归函数的特点.py" beforeDir="false" afterPath="$PROJECT_DIR$/../07_语法进阶/hm_18_递归函数的特点.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_语法进阶/hm_19_递归计算数字累加.py" beforeDir="false" afterPath="$PROJECT_DIR$/../07_语法进阶/hm_19_递归计算数字累加.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sumDoc/GIT.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../sumDoc/GIT.docx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,19 +40,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hm_06_石头剪刀布.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
-              <caret line="22" column="12" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="12" />
+              <caret line="22" column="12" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hm_01_判断年龄.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
+            <state relative-caret-position="213">
               <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
@@ -90,11 +82,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="264" />
-    <option name="y" value="32" />
-    <option name="width" value="1508" />
-    <option name="height" value="963" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="81" />
+    <option name="y" value="6" />
+    <option name="width" value="1296" />
+    <option name="height" value="726" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -104,7 +96,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,10 +107,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../08_面向对象基础" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -270,16 +263,17 @@
       <updated>1602357608141</updated>
       <workItem from="1602357616690" duration="9796000" />
       <workItem from="1602581437256" duration="758000" />
+      <workItem from="1603107126309" duration="650000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10554000" />
+    <option name="totallyTimeSpent" value="11204000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="264" y="32" width="1508" height="963" extended-state="1" />
+    <frame x="81" y="6" width="1296" height="726" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22117962" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2578125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -338,17 +332,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hm_01_判断年龄.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hm_06_石头剪刀布.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="22" column="12" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="12" />
+          <caret line="22" column="12" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_01_判断年龄.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>

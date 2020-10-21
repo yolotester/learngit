@@ -2,34 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3414d93-59e3-4621-9e79-396e9a6db4e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hm_01_hello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hm_02_第2个python程序.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hm_03_注释.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hm_04_变量定义.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hm_05_变量类型.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hm_06_变量输入.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hm_07_格式化输出.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KnowPython/01-HelloPython.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Microsoft Edge.lnk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Postman.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../Postman.lnk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SSG七星项目.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Snipaste.lnk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Telegram.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../Telegram.lnk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WPS 2019.lnk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../desktop.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lrgs（公司）占成30%，赚水0.012.xmind" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../py数据类型区别.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../yolo上线需求整理表.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../文本合集/git学习命令" beforeDir="false" afterPath="$PROJECT_DIR$/../文本合集/git学习命令" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../文本合集/python学习错误提示" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../文本合集/工作日志" beforeDir="false" afterPath="$PROJECT_DIR$/../文本合集/工作日志" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../文本合集/线上支付方式" beforeDir="false" afterPath="$PROJECT_DIR$/../文本合集/线上支付方式" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../新建文本文档.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../日报表（期数）算法待完善.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../火柴.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../火柴.lnk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../虎牙直播.lnk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../迅雷.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/01_Python基础.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/01_Python基础.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm_06_变量输入.py" beforeDir="false" afterPath="$PROJECT_DIR$/hm_06_变量输入输出.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_语法进阶/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../07_语法进阶/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_语法进阶/hm_15_多值参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/../07_语法进阶/hm_15_多值参数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_语法进阶/hm_16_多值参数求和.py" beforeDir="false" afterPath="$PROJECT_DIR$/../07_语法进阶/hm_16_多值参数求和.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_语法进阶/hm_17_元组和字典的拆包.py" beforeDir="false" afterPath="$PROJECT_DIR$/../07_语法进阶/hm_17_元组和字典的拆包.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_语法进阶/hm_18_递归函数的特点.py" beforeDir="false" afterPath="$PROJECT_DIR$/../07_语法进阶/hm_18_递归函数的特点.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_语法进阶/hm_19_递归计算数字累加.py" beforeDir="false" afterPath="$PROJECT_DIR$/../07_语法进阶/hm_19_递归计算数字累加.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sumDoc/GIT.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../sumDoc/GIT.docx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +27,7 @@
     <SUITE FILE_PATH="coverage/01_Python$hm_05_.coverage" NAME="hm_05_变量类型 Coverage Results" MODIFIED="1602280897291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/01_Python$hm_03_.coverage" NAME="hm_03_注释 Coverage Results" MODIFIED="1602278499938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/01_Python$hm_04_.coverage" NAME="hm_04_变量定义 Coverage Results" MODIFIED="1602279904393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/01_Python$hm_07_.coverage" NAME="hm_07_格式化输出 Coverage Results" MODIFIED="1602286274794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01_Python$hm_07_.coverage" NAME="hm_07_格式化输出 Coverage Results" MODIFIED="1603017713642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/01_Python$hm_01_hello.coverage" NAME="hm_01_hello Coverage Results" MODIFIED="1602199262962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
@@ -51,8 +35,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hm_04_变量定义.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="972">
-              <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+            <state relative-caret-position="155">
+              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -60,16 +44,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hm_05_变量类型.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="252">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hm_06_变量输入.py">
+        <entry file="file://$PROJECT_DIR$/hm_06_变量输入输出.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1116">
+            <state relative-caret-position="468">
               <caret line="31" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
@@ -78,8 +62,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hm_07_格式化输出.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+            <state relative-caret-position="396">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -94,7 +78,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -109,7 +93,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="107" />
     <option name="width" value="1338" />
     <option name="height" value="705" />
@@ -128,10 +112,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../02_分支" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -278,21 +263,22 @@
       <updated>1602199165755</updated>
       <workItem from="1602199174185" duration="13361000" />
       <workItem from="1602357563302" duration="44000" />
+      <workItem from="1603017055425" duration="1282000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13405000" />
+    <option name="totallyTimeSpent" value="14687000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="107" y="0" width="1338" height="705" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24583964" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16927083" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36203867" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3619565" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39846322" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -322,7 +308,7 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/hm_06_变量输入.py</url>
+          <url>file://$PROJECT_DIR$/hm_06_变量输入输出.py</url>
           <line>31</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
@@ -384,41 +370,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../python-cookbook-master/src/1/calculating_with_dictionaries/example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-216" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../python-cookbook-master/src/1/filtering_list_elements/example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-972" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../python-cookbook-master/src/1/calculating_with_dictionaries/example.py" />
+    <entry file="file://$PROJECT_DIR$/../python-cookbook-master/src/1/filtering_list_elements/example.py" />
     <entry file="file://$PROJECT_DIR$/hm_04_变量定义.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="972">
-          <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+        <state relative-caret-position="155">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hm_05_变量类型.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="252">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hm_06_变量输入.py">
+    <entry file="file://$PROJECT_DIR$/hm_06_变量输入输出.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1116">
+        <state relative-caret-position="468">
           <caret line="31" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hm_07_格式化输出.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        <state relative-caret-position="396">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
