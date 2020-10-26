@@ -1,2 +1,0 @@
-2020-06-19 21:40:54,424-__main__-WARNING-Do something
-2020-06-19 21:40:54,426-__main__-INFO-Finish
