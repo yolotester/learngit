@@ -121,12 +121,12 @@ class MyLog(object):
         try:
             result = 10 / 0
         except Exception:
-            logger.error('fail to get result', exc_info=True)  # 只需加一个exc_info=True参数
+            # logger.error('fail to get result', exc_info=True)  # 只需加一个exc_info=True参数
+            logger.exception('fail to get result...')
         logger.info('Finished')
 
 
-    def __new__(cls, *args, **kwargs):
-        pass
+
 
 if __name__=='__main__':
     MyLog().traceback()

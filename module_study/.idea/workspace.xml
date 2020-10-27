@@ -2,50 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be87a39f-8416-4172-b723-a9f64bbdc220" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../hm_python_basic/13_文件/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hm_python_basic/13_文件/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hm_python_basic/13_文件/hm_01_读取文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hm_python_basic/13_文件/hm_02_读取文件后文件指针会改变.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hm_python_basic/13_文件/hm_03_写入文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hm_python_basic/13_文件/hm_04_分行读取文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hm_python_basic/13_文件/hm_05_复制小文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hm_python_basic/13_文件/hm_06_复制大文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hm_python_basic/13_文件/hm_07_os模块文件目录的常用管理操作.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hm_python_basic/13_文件/hm_08_python2.x中使用中文.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hm_python_basic/13_文件/hm_09_eval函数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hm_python_basic/13_文件/hm_10_lambda匿名函数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study_OS模块/OS_常用方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study_OS模块/OS_常用方法2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study_OS模块/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study_logger日志/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study_logger日志/logger_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study_配置文件/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study_配置文件/config.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study_配置文件/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study_配置文件/db_config.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study_配置文件/example/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study_配置文件/example/create_config_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study_配置文件/example/operate_config_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study_配置文件/log_config.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study_配置文件/var_config.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hm_python_basic/12_发布模块/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hm_python_basic/12_发布模块/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../unittest/loggingStudy/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../unittest/loggingStudy/log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../unittest/loggingStudy/log.txt.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../unittest/loggingStudy/log.txt.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../unittest/loggingStudy/log.txt.3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../unittest/loggingStudy/log1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../unittest/loggingStudy/logging01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../unittest/loggingStudy/logging02.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../unittest/loggingStudy/logging03.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../unittest/loggingStudy/logging04.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../unittest/loggingStudy/logging05.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../unittest/loggingStudyHigh/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../unittest/loggingStudyHigh/fathermodule.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../unittest/loggingStudyHigh/log1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../unittest/loggingStudyHigh/setUpLogging.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../unittest/loggingStudyHigh/sonmoDule.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_AutoTest/Config/Config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_AutoTest/Config/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_AutoTest/Config/log_config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_AutoTest/Config/var_config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_AutoTest/Data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_AutoTest/Debug/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_AutoTest/Docs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_AutoTest/Libs/Log_Util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_AutoTest/Libs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_AutoTest/Libs/ee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_AutoTest/Reports/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_AutoTest/TestCase/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_AutoTest/Tools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_AutoTest/Verify/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API_AutoTest/main_all.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API_AutoTest/.idea/InterfaceFrame.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../API_AutoTest/.idea/InterfaceFrame.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API_AutoTest/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../API_AutoTest/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API_AutoTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../API_AutoTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTMLTestRunner.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study_logger日志/logger_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/study_logger日志/logger_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study_logger日志/out_log/2020-10-26.log" beforeDir="false" afterPath="$PROJECT_DIR$/study_logger日志/out_log/2020-10-26.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../txt/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../txt/test2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../usedPassword.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +36,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/module_study$OS_.coverage" NAME="OS_常用方法 Coverage Results" MODIFIED="1603641903300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study_OS模块" />
-    <SUITE FILE_PATH="coverage/module_study$logger_01.coverage" NAME="logger_01 Coverage Results" MODIFIED="1603667141019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study_logger日志" />
+    <SUITE FILE_PATH="coverage/module_study$logger_01.coverage" NAME="logger_01 Coverage Results" MODIFIED="1603744276476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study_logger日志" />
     <SUITE FILE_PATH="coverage/module_study$operate_config_file.coverage" NAME="operate_config_file Coverage Results" MODIFIED="1603578964824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study_配置文件" />
     <SUITE FILE_PATH="coverage/module_study$basic_01.coverage" NAME="basic_01 Coverage Results" MODIFIED="1603497966668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study_配置文件" />
     <SUITE FILE_PATH="coverage/module_study$config.coverage" NAME="config Coverage Results" MODIFIED="1603643085467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study_配置文件" />
@@ -67,7 +48,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/study_配置文件/example/operate_config_file.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
+            <state relative-caret-position="-1260">
               <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
             </state>
           </provider>
@@ -76,22 +57,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/study_配置文件/config.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="652">
-              <caret line="38" column="62" lean-forward="true" selection-start-line="38" selection-start-column="62" selection-end-line="38" selection-end-column="62" />
+            <state relative-caret-position="360">
+              <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
               <folding>
                 <element signature="e#157#166#0" expanded="true" />
-                <element signature="e#633#956#0" />
                 <element signature="e#1056#1376#0" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study_配置文件/example/example.ini">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -109,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/study_配置文件/log_config.ini">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
-              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -117,15 +88,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/study_logger日志/logger_01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="127" column="13" lean-forward="true" selection-start-line="127" selection-start-column="13" selection-end-line="127" selection-end-column="13" />
+            <state relative-caret-position="-2448">
+              <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
-                <element signature="e#276#697#0" />
-                <element signature="e#751#1394#0" />
-                <element signature="e#1539#2187#0" />
-                <element signature="e#2184#2936#0" />
-                <element signature="e#3093#3915#0" />
               </folding>
             </state>
           </provider>
@@ -134,8 +100,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/study_logger日志/out_log/2020-10-26.log">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="383">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/study_配置文件/config.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="936">
+              <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -193,10 +168,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="505" />
-    <option name="y" value="129" />
-    <option name="width" value="1038" />
-    <option name="height" value="742" />
+    <option name="x" value="-8" />
+    <option name="width" value="1550" />
+    <option name="height" value="972" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -221,18 +195,13 @@
             <path>
               <item name="module_study" type="b2602c69:ProjectViewProjectNode" />
               <item name="module_study" type="462c0819:PsiDirectoryNode" />
-              <item name="study_logger日志" type="462c0819:PsiDirectoryNode" />
-              <item name="out_log" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="module_study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="module_study" type="462c0819:PsiDirectoryNode" />
-              <item name="study_OS模块" type="462c0819:PsiDirectoryNode" />
+              <item name="study_配置文件" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="module_study" type="b2602c69:ProjectViewProjectNode" />
               <item name="module_study" type="462c0819:PsiDirectoryNode" />
               <item name="study_配置文件" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -244,7 +213,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Ini" />
-    <property name="last_opened_file_path" value="D:/special test script/Api_AutoTest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../API_AutoTest" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -402,12 +371,12 @@
       <updated>1603496863715</updated>
       <workItem from="1603496864778" duration="567000" />
       <workItem from="1603497451521" duration="3841000" />
-      <workItem from="1603577287211" duration="24148000" />
+      <workItem from="1603577287211" duration="32827000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28556000" />
+    <option name="totallyTimeSpent" value="37235000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
@@ -418,7 +387,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32934782" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3173913" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3173913" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -429,7 +398,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" side_tool="true" visible="true" weight="0.3296875" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" side_tool="true" weight="0.2625" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -493,13 +462,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study_配置文件/config.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-144">
-          <caret line="29" column="34" lean-forward="true" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/study_OS模块/OS_常用方法2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="904">
@@ -521,20 +483,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study_配置文件/example/operate_config_file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/study_配置文件/log_config.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/study_logger日志/out_log/2020-10-26.log.1">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -544,36 +492,56 @@
     <entry file="file://$PROJECT_DIR$/study_logger日志/out_log/2020-10-26.log.3">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/../HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10908" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study_logger日志/out_log/2020-10-26.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study_配置文件/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study_配置文件/example/operate_config_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1260">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/study_配置文件/config.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="652">
-          <caret line="38" column="62" lean-forward="true" selection-start-line="38" selection-start-column="62" selection-end-line="38" selection-end-column="62" />
+        <state relative-caret-position="360">
+          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
           <folding>
             <element signature="e#157#166#0" expanded="true" />
-            <element signature="e#633#956#0" />
             <element signature="e#1056#1376#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study_logger日志/out_log/2020-10-26.log">
+    <entry file="file://$PROJECT_DIR$/study_配置文件/log_config.ini">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="252">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/study_logger日志/logger_01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="127" column="13" lean-forward="true" selection-start-line="127" selection-start-column="13" selection-end-line="127" selection-end-column="13" />
+        <state relative-caret-position="-2448">
+          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
-            <element signature="e#276#697#0" />
-            <element signature="e#751#1394#0" />
-            <element signature="e#1539#2187#0" />
-            <element signature="e#2184#2936#0" />
-            <element signature="e#3093#3915#0" />
           </folding>
         </state>
       </provider>
