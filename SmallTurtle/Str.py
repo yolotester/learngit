@@ -265,6 +265,8 @@ print(str18.zfill(100))
 
 # 字符串应用
 s = '  12s   4546ff   dffg   '
+s = 'ii..opip12..ioj'
+s = 'yy...ll...oop..kl'
 # 1.strip 去除前后空格
 #  2.找到第一个空格
 #  3.找到第一个空格后面的第一个非空格字符
@@ -275,11 +277,53 @@ print(s.lstrip())
 s = s.strip()
 print('after strip s=',s)   # 第一步
 
-a = s.find(' ')    # 第二步
-w1 = s[0:a]
-print(w1)    # 12s
+def my_split(src,sep):
+    a = src.find(sep)    # 第二步
+    w1 = src[:a]
+    print(w1)    # 12s
 
-while s[a] == ' ':
-    a +=1
-print('not space str a:',a,s[a])
+    b = a
+    n = len(sep)
+    while b <= len(src) and b != -1:
+        while src[a:a + n] == sep:     # 两个字符，需要切片两位进行比较
+            a += n
+        b = src.find(sep,a)
+        if b != -1:
+            print(s[a:b])
+        else:
+            print(s[a:])
+        a = b
+
+print('enter...')
+my_split(s,sep='...')
+print('leaving...')
+
+
+# 定义一个方法，处理字符串中的......问题
+def my_split(src,sep):
+    s = src.find(sep)
+    e = src.find(sep)
+    if s == 0:
+        print('\'\'',src[s:e])
+    else:
+        print(src[:e])
+
+    while e != -1:             # find方法找不到sep，返回-1
+        b = src.find(sep,e)
+        e = src.find(sep,b + len(sep))
+        if e - b == len(sep):
+            print('\'\'')
+        elif e != -1:        # find方法找不到sep，返回-1
+            print(src[b + len(sep):e])
+        else:                # find方法找不到sep，返回-1
+            print(src[b+len(sep):])
+
+
+s = 'xbc..yyy....ssss......gg'
+sep = '..'
+my_split(s,sep)
+
+
+
+
 

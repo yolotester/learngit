@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc5ffe02-f780-442a-bf02-653ddfc95cf2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../08_面向对象基础/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_面向对象基础/hm_01_第一个面向对象.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_面向对象基础/hm_02_创建两个猫对象.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_面向对象基础/hm_03_设置对象属性.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_面向对象基础/hm_04_在外界设置属性的隐患.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_面向对象基础/hm_05_初始化方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_面向对象基础/hm_06_使用参数设置属性初始值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_面向对象基础/hm_07___del__方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_面向对象基础/hm_08___str__方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_01_小明爱跑步.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_02_小明爱跑步扩展.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_03_摆放家具_01_家具类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_04_摆放家具_02_房子类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_05_摆放家具_03_完成添加家具.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_06_士兵突击_01_枪类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_07_士兵突击_02_士兵类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_08_私有属性和私有方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_09_伪私有属性和私有方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Python基础/.idea/01_Python基础.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Python基础/.idea/01_Python基础.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Python基础/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Python基础/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Python基础/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Python基础/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Python基础/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Python基础/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Python基础/hm_06_变量输入.py" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Python基础/hm_06_变量输入输出.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_分支/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02_分支/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_语法进阶/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../07_语法进阶/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_语法进阶/hm_15_多值参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/../07_语法进阶/hm_15_多值参数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_语法进阶/hm_16_多值参数求和.py" beforeDir="false" afterPath="$PROJECT_DIR$/../07_语法进阶/hm_16_多值参数求和.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_语法进阶/hm_17_元组和字典的拆包.py" beforeDir="false" afterPath="$PROJECT_DIR$/../07_语法进阶/hm_17_元组和字典的拆包.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_语法进阶/hm_18_递归函数的特点.py" beforeDir="false" afterPath="$PROJECT_DIR$/../07_语法进阶/hm_18_递归函数的特点.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_语法进阶/hm_19_递归计算数字累加.py" beforeDir="false" afterPath="$PROJECT_DIR$/../07_语法进阶/hm_19_递归计算数字累加.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sumDoc/GIT.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../sumDoc/GIT.docx" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/09_$hm_08_.coverage" NAME="hm_08_私有属性和私有方法 Coverage Results" MODIFIED="1603230592837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/09_$hm_01_.coverage" NAME="hm_01_小明爱跑步 Coverage Results" MODIFIED="1603148872479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/09_$hm_04__02_.coverage" NAME="hm_04_摆放家具_02_房子类 Coverage Results" MODIFIED="1603151382041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/09_$hm_03__01_.coverage" NAME="hm_03_摆放家具_01_家具类 Coverage Results" MODIFIED="1603152302922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/09_$hm_07__02_.coverage" NAME="hm_07_士兵突击_02_士兵类 Coverage Results" MODIFIED="1603228745419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/09_$hm_06__01_.coverage" NAME="hm_06_士兵突击_01_枪类 Coverage Results" MODIFIED="1603227535288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/09_$hm_09_.coverage" NAME="hm_09_伪私有属性和私有方法 Coverage Results" MODIFIED="1603230883052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/09_$hm_05__03_.coverage" NAME="hm_05_摆放家具_03_完成添加家具 Coverage Results" MODIFIED="1603152151528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hm_01_小明爱跑步.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="e#19#381#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hm_02_小明爱跑步扩展.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="492">
+              <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="25" />
+              <folding>
+                <element signature="e#19#411#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hm_03_摆放家具_01_家具类.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hm_04_摆放家具_02_房子类.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-228">
+              <caret line="32" column="20" lean-forward="true" selection-end-line="51" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hm_05_摆放家具_03_完成添加家具.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-408">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hm_06_士兵突击_01_枪类.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="10" selection-end-line="30" selection-end-column="12" />
+              <folding>
+                <element signature="e#20#484#0" />
+                <element signature="e#63#148#0" />
+                <element signature="e#208#234#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hm_07_士兵突击_02_士兵类.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+              <folding>
+                <element signature="e#16#487#0" />
+                <element signature="e#51#128#0" />
+                <element signature="e#172#198#0" />
+                <element signature="e#704#752#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hm_08_私有属性和私有方法.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="13" column="21" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hm_09_伪私有属性和私有方法.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="507">
+              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hm_01_小明爱跑步.py" />
+        <option value="$PROJECT_DIR$/hm_02_小明爱跑步扩展.py" />
+        <option value="$PROJECT_DIR$/hm_04_摆放家具_02_房子类.py" />
+        <option value="$PROJECT_DIR$/hm_05_摆放家具_03_完成添加家具.py" />
+        <option value="$PROJECT_DIR$/hm_03_摆放家具_01_家具类.py" />
+        <option value="$PROJECT_DIR$/hm_06_士兵突击_01_枪类.py" />
+        <option value="$PROJECT_DIR$/hm_07_士兵突击_02_士兵类.py" />
+        <option value="$PROJECT_DIR$/hm_08_私有属性和私有方法.py" />
+        <option value="$PROJECT_DIR$/hm_09_伪私有属性和私有方法.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="81" />
+    <option name="y" value="6" />
+    <option name="width" value="1296" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="09_面向对象练习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="09_面向对象练习" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.hm_09_伪私有属性和私有方法">
+    <configuration name="hm_03_摆放家具_01_家具类" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="09_面向对象练习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_03_摆放家具_01_家具类.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hm_06_士兵突击_01_枪类" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="09_面向对象练习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_06_士兵突击_01_枪类.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hm_07_士兵突击_02_士兵类" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="09_面向对象练习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_07_士兵突击_02_士兵类.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hm_08_私有属性和私有方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="09_面向对象练习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_08_私有属性和私有方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hm_09_伪私有属性和私有方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="09_面向对象练习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_09_伪私有属性和私有方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.hm_09_伪私有属性和私有方法" />
+        <item itemvalue="Python.hm_08_私有属性和私有方法" />
+        <item itemvalue="Python.hm_07_士兵突击_02_士兵类" />
+        <item itemvalue="Python.hm_06_士兵突击_01_枪类" />
+        <item itemvalue="Python.hm_03_摆放家具_01_家具类" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc5ffe02-f780-442a-bf02-653ddfc95cf2" name="Default Changelist" comment="" />
+      <created>1603147873972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603147873972</updated>
+      <workItem from="1603147882546" duration="9427000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9427000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.16666667" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Python Console" order="4" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.315625" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="SciView" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="2" side_tool="true" visible="true" weight="0.18958333" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hm_06_士兵突击_01_枪类.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hm_04_摆放家具_02_房子类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228">
+          <caret line="32" column="20" lean-forward="true" selection-end-line="51" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_01_小明爱跑步.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#19#381#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_02_小明爱跑步扩展.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="25" />
+          <folding>
+            <element signature="e#19#411#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_03_摆放家具_01_家具类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_05_摆放家具_03_完成添加家具.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_06_士兵突击_01_枪类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-end-line="30" selection-end-column="12" />
+          <folding>
+            <element signature="e#20#484#0" />
+            <element signature="e#63#148#0" />
+            <element signature="e#208#234#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_07_士兵突击_02_士兵类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+          <folding>
+            <element signature="e#16#487#0" />
+            <element signature="e#51#128#0" />
+            <element signature="e#172#198#0" />
+            <element signature="e#704#752#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_08_私有属性和私有方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="13" column="21" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_09_伪私有属性和私有方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

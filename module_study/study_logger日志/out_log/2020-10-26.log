@@ -1,0 +1,22 @@
+INFO     2020-10-26 02:47:23,041 logger_01.py         Line[88:] This is a log info
+WARNING  2020-10-26 02:47:23,042 logger_01.py         Line[90:] Warning exixts
+INFO     2020-10-26 02:47:23,042 logger_01.py         Line[91:] Finish
+INFO     2020-10-26 02:47:23,042 logger_01.py         Line[88:] This is a log info
+WARNING  2020-10-26 02:47:23,042 logger_01.py         Line[90:] Warning exixts
+INFO     2020-10-26 02:47:23,043 logger_01.py         Line[91:] Finish
+INFO     2020-10-26 03:05:41,217 logger_01.py         Line:[117:] Start
+ERROR    2020-10-26 03:05:41,217 logger_01.py         Line:[118:] Something may be fail.
+ERROR    2020-10-26 03:05:41,217 logger_01.py         Line:[123:] fail to get result
+Traceback (most recent call last):
+  File "D:/Git/learngit/module_study/study_logger日志/logger_01.py", line 121, in traceback
+    result = 10 / 0
+ZeroDivisionError: division by zero
+INFO     2020-10-26 03:05:41,219 logger_01.py         Line:[124:] Finished
+INFO     2020-10-26 14:39:43,136 logger_01.py         Line:[117:] Start
+ERROR    2020-10-26 14:39:43,137 logger_01.py         Line:[118:] Something may be fail.
+ERROR    2020-10-26 14:39:43,137 logger_01.py         Line:[125:] fail to get result...
+Traceback (most recent call last):
+  File "D:/Git/learngit/module_study/study_logger日志/logger_01.py", line 122, in traceback
+    result = 10 / 0
+ZeroDivisionError: division by zero
+INFO     2020-10-26 14:39:43,137 logger_01.py         Line:[126:] Finished

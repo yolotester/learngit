@@ -3,9 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="321548e1-e0c5-4b4f-80ed-1b89cfa8e0a1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/ForList.py" beforeDir="false" afterPath="$PROJECT_DIR$/ForList.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/iteration.py" beforeDir="false" afterPath="$PROJECT_DIR$/iteration.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hello.txt" beforeDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/../pyhigh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pyhigh/.idea/workspace.xml" afterDir="false" />
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/SmallTurtle$iteration.coverage" NAME="iteration Coverage Results" MODIFIED="1589213388465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SmallTurtle$Str.coverage" NAME="Str Coverage Results" MODIFIED="1589137317054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SmallTurtle$ForList.coverage" NAME="ForList Coverage Results" MODIFIED="1589225326473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -25,6 +30,19 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1066">
               <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+=======
+    <SUITE FILE_PATH="coverage/SmallTurtle$iteration.coverage" NAME="iteration Coverage Results" MODIFIED="1589307928510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SmallTurtle$Str.coverage" NAME="Str Coverage Results" MODIFIED="1589305718573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SmallTurtle$ForList.coverage" NAME="ForList Coverage Results" MODIFIED="1589298776110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IfWhile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="474">
+              <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
               <folding>
                 <element signature="e#710#719#0" expanded="true" />
               </folding>
@@ -32,6 +50,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/File.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -82,6 +101,8 @@
           </provider>
         </entry>
       </file>
+=======
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -97,6 +118,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Format.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/Str.py" />
         <option value="$PROJECT_DIR$/iteration.py" />
         <option value="$PROJECT_DIR$/ForList.py" />
@@ -107,6 +129,22 @@
     <option name="x" value="247" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
+=======
+        <option value="D:/learnPython/SmallTurtle/ForList.py" />
+        <option value="$PROJECT_DIR$/ForList.py" />
+        <option value="$PROJECT_DIR$/Str.py" />
+        <option value="$PROJECT_DIR$/File.py" />
+        <option value="$PROJECT_DIR$/iteration.py" />
+        <option value="$PROJECT_DIR$/../pyhigh/udp.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="846" />
+    <option name="y" value="159" />
+    <option name="width" value="1036" />
+    <option name="height" value="733" />
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -117,22 +155,12 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="SmallTurtle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SmallTurtle" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pyhigh/Mysql" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -148,7 +176,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.ForList">
+=======
+  <component name="RunManager" selected="Python.iteration">
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
     <configuration name="ForList" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SmallTurtle" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -217,9 +249,13 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Python.ForList" />
+=======
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
         <item itemvalue="Python.iteration" />
         <item itemvalue="Python.Str" />
+        <item itemvalue="Python.ForList" />
       </list>
     </recent_temporary>
   </component>
@@ -234,11 +270,20 @@
       <option name="presentableId" value="Default" />
       <updated>1589114795347</updated>
       <workItem from="1589114796446" duration="8455000" />
+<<<<<<< HEAD
       <workItem from="1589198335302" duration="12176000" />
+=======
+      <workItem from="1589225601813" duration="70000" />
+      <workItem from="1589225825786" duration="2880000" />
+      <workItem from="1589280862383" duration="12875000" />
+      <workItem from="1591210562557" duration="1289000" />
+      <workItem from="1591721410821" duration="89000" />
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="20631000" />
   </component>
   <component name="ToolWindowManager">
@@ -252,6 +297,19 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26391983" />
+=======
+    <option name="totallyTimeSpent" value="25658000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="846" y="159" width="1036" height="733" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.49077868" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36220473" />
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -296,13 +354,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/learnPython/SmallTurtle/ForList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/learnPython/SmallTurtle/File.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="277">
@@ -315,6 +366,7 @@
         <state relative-caret-position="-593" />
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/IfWhile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1066">
@@ -322,13 +374,14 @@
           <folding>
             <element signature="e#710#719#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
+=======
+    <entry file="file://D:/learnPython/SmallTurtle/Format.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/File.py">
+    <entry file="file://D:/learnPython/SmallTurtle/ForList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        <state relative-caret-position="796">
+          <caret line="302" lean-forward="true" selection-start-line="302" selection-end-line="302" />
         </state>
       </provider>
     </entry>
@@ -341,6 +394,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Str.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="313" column="29" lean-forward="true" selection-start-line="313" selection-start-column="29" selection-end-line="313" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/File.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1664">
+          <caret line="85" column="54" selection-start-line="85" selection-start-column="54" selection-end-line="85" selection-end-column="54" />
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/File.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="156">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Format.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+=======
+        <state relative-caret-position="6445">
+          <caret line="294" column="10" lean-forward="true" selection-start-line="294" selection-start-column="10" selection-end-line="294" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iteration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="988">
+          <caret line="83" column="51" selection-start-line="83" selection-start-column="51" selection-end-line="83" selection-end-column="51" />
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyhigh/udp.py" />
+    <entry file="file://$PROJECT_DIR$/IfWhile.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="6136">
           <caret line="281" column="18" selection-start-line="281" selection-start-column="18" selection-end-line="281" selection-end-column="18" />
         </state>
@@ -360,6 +456,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1178">
           <caret line="292" selection-start-line="292" selection-end-line="302" />
+=======
+        <state relative-caret-position="474">
+          <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
+          <folding>
+            <element signature="e#710#719#0" expanded="true" />
+          </folding>
+>>>>>>> e732a732f40f08ac74c0500d4fe3b8a33c7bba94
         </state>
       </provider>
     </entry>
