@@ -20,6 +20,7 @@ class Y_OS(object):
         os.path.join  将目录和文件名合成一个路径
         os.path.exists(path)  如果路径存在则返回true
         os.makedirs  创建目录
+        os.path.basename(__file__)  返回文件名
         '''
         self.current_path = os.path.dirname((os.path.abspath(__file__)))
 
@@ -32,7 +33,10 @@ class Y_OS(object):
         else:
             os.makedirs(self.test1_path)
 
+        self.file_name = os.path.basename(__file__)
+
 
 y = Y_OS()
 print(y.current_path)
 print(y.json_path)
+print(y.file_name)
