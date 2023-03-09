@@ -1,9 +1,15 @@
+
+# from datetime import datetime, date  # datetime模块中有datetime类 和 date类
+# https://www.cnblogs.com/baxianhua/p/9928163.html
+# import sys
+# sys.path.extend(["/Users/zz/Git/API_AutoTest"])
+# print(sys.path)
+
+
 import datetime
 import time
 from Libs.Log_Util import logger
 from datetime import timedelta
-# from datetime import datetime, date  # datetime模块中有datetime类 和 date类
-# https://www.cnblogs.com/baxianhua/p/9928163.html
 
 # 获取当前日期和时间 2021-02-27 23:10:08.506635
 now = datetime.datetime.now()

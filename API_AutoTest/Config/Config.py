@@ -6,7 +6,7 @@
 # @Author  : Yolo
 # @Desc    : 配置类
 # @File    : Config.py
-# @Softwore: PyCharm
+# @Software: PyCharm
 
 import os
 import configparser
@@ -20,20 +20,20 @@ class MyConfig(configparser.ConfigParser):
         configparser.ConfigParser.__init__(self, defaults=None)  # defaults : 如果指定默认值，则使用默认值的键值对
 
     def optionxform(self, optionstr):
-        '''
+        """
         optionxform()，在传递键值对数据时，会将键名 全部转化为小写
         :param optionstr: 在一个实例上重新设置它，对于一个需要字符串参数的函数。例如，将其设置为str，将使选项名称区分大小写
         :return:
-        '''
+        """
         return optionstr
 
 
 class Config(object):
 
     def __init__(self):
-        '''
+        """
         初始化配置
-        '''
+        """
         self.current_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # D:\Git\learngit\API_AutoTest
         self.config_path = os.path.join(self.current_path, 'Config')  # D:\Git\learngit\API_AutoTest\Config
         self.log_config_path = os.path.join(self.config_path, 'log_config.ini')
@@ -41,12 +41,12 @@ class Config(object):
         self.g_config_path = os.path.join(self.config_path, 'config.ini')
         self.db_config_path = os.path.join(self.current_path, 'db_config.ini')
 
-
         # 实例化对象，用于操作config.ini
         self.config = MyConfig()
         self.config.read(self.g_config_path, encoding='utf-8')
         self.project_name_tag = self.config.get('default', 'project_name_tag')  # 获得project_name_tag的值
-        self.data_path = os.path.join(os.path.join(self.current_path, 'Data'), 'Project_'+self.project_name_tag)  # 测试数据的位置
+        self.data_path = os.path.join(os.path.join(self.current_path, 'Data'),
+                                      'Project_' + self.project_name_tag)  # 测试数据的位置
         self.tool_path = os.path.join(self.current_path, 'Tools')  # 工具包的位置
         self.log_path = os.path.join(self.current_path, 'Logs')  # 日志位置
         self.report_path = os.path.join(self.current_path, 'Reports')  # 报告位置
@@ -55,8 +55,10 @@ class Config(object):
         self.v_config = MyConfig()
         self.v_config.read(self.v_config_path, encoding='utf-8')
         self.html_report_filename = os.path.join(self.report_path, 'result.html')
-        self.data_file_name = os.path.join(self.data_path, self.config.get('default', 'data_file_name'))  # 把config.ini中data_file_name的值取出，并join一起
-        self.tool_file_name = os.path.join(os.path.join(self.tool_path, 'Data'), self.config.get('default', 'tool_file_name'))
+        self.data_file_name = os.path.join(self.data_path, self.config.get('default',
+                                                                           'data_file_name'))  # 把config.ini中data_file_name的值取出，并join一起
+        self.tool_file_name = os.path.join(os.path.join(self.tool_path, 'Data'),
+                                           self.config.get('default', 'tool_file_name'))
         self.template_file_name = os.path.join(self.data_path, self.config.get('default', 'template_file_name'))
         self.data_source = self.config.getint('default', 'data_source')
         self.err_code = self.config.getint('default', 'err_code')
@@ -71,7 +73,6 @@ class Config(object):
 
         self.api_type = int(self.get_option_config('ApiType'))
 
-
         # self.config.sections()[self.api_type]  sections()方法以列表形式返回所有section
         # 当api_type为1，则使用的是测试环境的配置，当api_type为2，则使用的是预发布环境的配置
         self.db_cfg_name = self.config.get(self.config.sections()[self.api_type], 'env_db_cfg_item')
@@ -79,7 +80,6 @@ class Config(object):
         self.ag_host = self.config.get(self.config.sections()[self.api_type], 'ag_host')
         self.api_host = self.config.get(self.config.sections()[self.api_type], 'api_host')
         self.key = self.config.get(self.config.sections()[self.api_type], 'key')
-
 
     def get_option_config(self, option_name, section_name='Global_Variable'):
         '''
@@ -95,7 +95,6 @@ class Config(object):
         except configparser.NoOptionError as err:
             raise err
 
-
     def set_variable_config(self, item_name, item_value, section_name='Global_Variable'):
         '''
         写入 var_config.ini中 section=Global_Variable 的配置
@@ -110,7 +109,6 @@ class Config(object):
         with open(self.v_config_path, 'w') as f:
             self.v_config.write(f)  # 将配置写入var_config.ini文件
 
-
     def get_run_config(self):
         """
         返回全局运行规则字典, 目的不清
@@ -124,10 +122,10 @@ class Config(object):
         （2）有新的键时：会直接把字典 b 中的 key、value 加入到 a 中。
         """
         if self.is_regression:
-            run_rules_dic.update({'IsRegression':self.is_regression})
+            run_rules_dic.update({'IsRegression': self.is_regression})
 
         if self.is_smoke:
-            run_rules_dic.update({'IsSmoke':self.is_smoke})
+            run_rules_dic.update({'IsSmoke': self.is_smoke})
 
         if self.apply_env:
             run_rules_dic.update({'ApplyEnv': self.apply_env})
@@ -137,8 +135,8 @@ class Config(object):
 
         return run_rules_dic
 
-if __name__=='__main__':
+
+if __name__ == '__main__':
     print(Config().log_config_path)
     print(Config().get_option_config('UserName'))
     print(Config().api_type)
-

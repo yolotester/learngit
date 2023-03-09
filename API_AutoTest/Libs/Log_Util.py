@@ -1,19 +1,22 @@
 #! usr/bin/env python
 # -*- coding: utf-8 -*-
-
-
+import configparser
 # @Time   : 2020/10/27 0:42
 # @Author : Yolo
 # @Desc   : 配置类
 # @File   : Config.py
 # @Software: PyCharm
+import sys
+sys.path.append('/Users/zz/Git/API_AutoTest')
 
 
 import logging
+import os
+import sys
 import threading
 import time
 from logging.handlers import RotatingFileHandler
-from Config.Config import *  # 导入Config模块，第一个Config是目录名
+from Config.Config import * # 导入Config模块，第一个Config是目录名
 
 
 class LogSingleton(object):
@@ -90,5 +93,5 @@ logsingleton = LogSingleton(Config().log_config_path)
 logger = logsingleton.get_logger()  # 如果其他文件需要日志，可直接from Libs.Log_Util import logger
 
 if __name__ == '__main__':
-
+    print(sys.path)
     logger.info('log')

@@ -2,6 +2,7 @@ import string
 from Libs.Log_Util import logger
 
 num = 125.26
+logger.info(type(num))
 count = 1
 '''
 partition() 方法用来根据指定的分隔符将字符串进行分割。
@@ -22,6 +23,6 @@ logger.info('.'.join([a, c]))
 https://www.runoob.com/python/att-string-split.html
 split(str='', num=string.count(str)) 通过指定分隔符对字符串进行切片，如果参数 num 有指定值，则分隔 num+1 个子字符串
 '''
-str = "Line1-abcdef \nLine2-abc \nLine4-abcd";
-print (str.split( ))      # 以空格为分隔符，包含 \n
-print (str.split(' ', 1 )) # 以空格为分隔符，分隔成两个
+str1 = "Line1-abcdef \nLine2-abc \nLine4-abcd"
+print(str1.split('\n'))  # 以空格为分隔符，包含 \n
+print(str1.split(' ', 1))  # 以空格为分隔符，分隔成两个

@@ -1,6 +1,6 @@
 #! usr/bin/env python
 # -*- coding: utf-8 -*-
-
+from typing import Callable, Union, Any, List
 
 # @Time   : 2020/10/27 0:42
 # @Author : Yolo
@@ -44,7 +44,7 @@ class ExcelUtil(object):
             valid_rows = xls_ws.nrows  # 获得该sheet页中的有效行数
             valid_cols = xls_ws.ncols  # 获得该sheet页中的有效列数
             row_cell_list = xls_ws.row(1)  # 返回由该行中所有的单元格对象组成的列表, 参数为行号
-            row_by_col_cell_list = xls_ws.row_slice(1, 1, 3)   # 返回该行中特定列的单元格对象组成的列表，参数依次为 行号  开始列号  结束列号，列号左闭右开
+            row_by_col_cell_list = xls_ws.row_slice(1, 1, 3)  # 返回该行中特定列的单元格对象组成的列表，参数依次为 行号  开始列号  结束列号，列号左闭右开
             row_cell_data_type_list = xls_ws.row_types(1, start_colx=0, end_colx=None)  # 返回该行中所有单元格的数据类型组成的列表
             row_cell_data_list = xls_ws.row_values(1, start_colx=0, end_colx=None)  # 返回该行中所有单元格的数据组成的列表
             col_num = xls_ws.row_len(1)  # 返回该行的有效单元格长度，即列数
@@ -60,18 +60,18 @@ class ExcelUtil(object):
         """
         try:
             xls_ws = self.xls_wb.sheet_by_name(self.sheet_name)
-            cell_object = xls_ws.cell(1, 1)  # 返回单元格对象，参数为行号，列号
             cell_data_type = xls_ws.cell_type(1, 1)  # 返回单元格中的数据类型
             cell_data = xls_ws.cell_value(1, 1)  # 返回单元格中的数据
+            print(cell_data)
             return cell_data
         except Exception as msg:
             logger.error("【Frame】读取文件异常！", msg, exc_info=True)
 
+
 if __name__ == '__main__':
-    excel = ExcelUtil(r'C:\Users\yolo\Desktop\Test_Case.xlsx', 'User')
+    excel = ExcelUtil(r'/Users/zz/Git/API_AutoTest/Study/Test_Case.xlsx', 'User')
     logger.info(excel.xls_ws)
     row_list = excel.operate_row()
     logger.info(row_list)
-    cell_object = excel.operate_cell()
-    logger.info(cell_object)
-
+    cell_data = excel.operate_cell()
+    logger.info(cell_data)
