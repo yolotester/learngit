@@ -9,7 +9,6 @@
 # @Software: PyCharm
 
 
-import redis
 import decimal
 import datetime
 import pymysql
@@ -67,7 +66,7 @@ class DBUtil:
         cur.close()
         conn.close()
 
-        return rows
+        return list(rows)
 
     def execute(self, sql_):
         """
@@ -147,4 +146,8 @@ class RedisUtil:
 
 
 if __name__ == '__main__':
-    redis = RedisUtil()
+    db = DBUtil()
+    sql_ = """select title from test_table"""
+    result = db.query(sql_)
+    data = db.sql_result_to_json(result, ['title'])
+    logger.info(data)

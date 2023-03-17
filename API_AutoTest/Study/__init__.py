@@ -6,4 +6,4 @@
 # @Author : Yolo
 # @Desc   : 配置类
 # @File   : Config.py
-# @Softwore: PyCharm
+# @Software: PyCharm

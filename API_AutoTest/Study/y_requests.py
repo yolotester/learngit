@@ -41,9 +41,10 @@ class WarpRequests():
         """
         try:
             if method == "post":
-                http_client = requests.post(url=url, data=body, headers=headers, cookies=cookies, verify=False, allow_redirects=False)
+                http_client = requests.post(url=url, data=body, headers=headers, cookies=cookies, verify=False,
+                                            allow_redirects=False)
             elif method == "get":
-                 http_client= requests.get(url=url, params=body, headers=headers, cookies=cookies)
+                http_client = requests.get(url=url, params=body, headers=headers, cookies=cookies)
             else:
                 logger.error("请求方式不正确，请检查！")
 
@@ -63,7 +64,5 @@ class WarpRequests():
             traceback.print_exc(err)
             raise Exception(err)
 
-
     def http_request_api(self, msg):
         pass
-

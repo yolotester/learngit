@@ -39,7 +39,7 @@ class Config(object):
         self.log_config_path = os.path.join(self.config_path, 'log_config.ini')
         self.v_config_path = os.path.join(self.config_path, 'var_config.ini')
         self.g_config_path = os.path.join(self.config_path, 'config.ini')
-        self.db_config_path = os.path.join(self.current_path, 'db_config.ini')
+        self.db_config_path = os.path.join(self.config_path, 'db_config.txt')
 
         # 实例化对象，用于操作config.ini
         self.config = MyConfig()
@@ -82,12 +82,12 @@ class Config(object):
         self.key = self.config.get(self.config.sections()[self.api_type], 'key')
 
     def get_option_config(self, option_name, section_name='Global_Variable'):
-        '''
+        """
         返回 var_config.ini中 section=Global_Variable 的配置
         :param variable_name: 变量名
         :param section_name: 变量名所在的section
         :return:
-        '''
+        """
         # 异常捕获，如果Global_Variable中 ，有该option，则返回。无则抛出异常
         try:
             return_variable = self.v_config.get(section_name, option_name)
@@ -96,13 +96,13 @@ class Config(object):
             raise err
 
     def set_variable_config(self, item_name, item_value, section_name='Global_Variable'):
-        '''
+        """
         写入 var_config.ini中 section=Global_Variable 的配置
         :param item_name: 变量名
         :param item_value: 变量值
         :param section_name: 变量名所在的section
         :return:
-        '''
+        """
         self.v_config.set(section_name, item_name, item_value)
 
         # 打开var_config.ini文件，会自动关闭该文件
@@ -111,7 +111,7 @@ class Config(object):
 
     def get_run_config(self):
         """
-        返回全局运行规则字典, 目的不清
+        返回全局运行规则字典, 筛选测试用例
         """
         run_rules_dic = {}
 
@@ -140,3 +140,4 @@ if __name__ == '__main__':
     print(Config().log_config_path)
     print(Config().get_option_config('UserName'))
     print(Config().api_type)
+    print(Config().db_config_path)

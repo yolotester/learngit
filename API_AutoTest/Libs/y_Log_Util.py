@@ -19,14 +19,16 @@ class LogSingleton(object):
 
             config = configparser.ConfigParser()  # 实例化对象操作log配置文件
 
-            # 需要加上编码格式，不然报错UnicodeDecodeError: 'gbk' codec can't decode byte 0x8f in position 33: illegal multibyte sequence
+            # 需要加上编码格式，不然报错UnicodeDecodeError: 'gbk' codec can't decode byte 0x8f in position 33: illegal multibyte
+            # sequence
             config.read(log_config, encoding='utf-8')  # log配置文件位置 Config().log_config_path
 
             if not os.path.exists(Config().log_path):  # 如果不存在Logs目录，则创建该目录
                 os.makedirs(Config().log_path)
 
             # 为对象设置属性--得到配置文件中log_config.ini 各项的值
-            cls.instance.log_filename = os.path.join(Config().log_path, time.strftime("%Y-%m-%d %H-%M-%S"+'.log', time.localtime()))
+            cls.instance.log_filename = os.path.join(Config().log_path,
+                                                     time.strftime("%Y-%m-%d %H-%M-%S" + '.log', time.localtime()))
             cls.instance.max_bytes_each = int(config.get('LOGGING', 'max_bytes_each'))
             cls.instance.backup_count = int(config.get('LOGGING', 'backup_count'))
             cls.instance.fmt = config.get('LOGGING', 'fmt')
@@ -41,7 +43,6 @@ class LogSingleton(object):
 
             # 2.调用方法。方法里设置formatter格式 和 输出日志的基本操作
             cls.instance.__config_logger()
-
 
         return cls.instance
 
@@ -76,13 +77,14 @@ class LogSingleton(object):
 
         if self.logfile_log_on == 1:  # 如果开启文件日志
             # maxBytes  最大字节数   backupCount  备份文件个数
-            rt_file_handler = RotatingFileHandler(self.log_filename, maxBytes=self.max_bytes_each, backupCount=self.backup_count)
+            rt_file_handler = RotatingFileHandler(self.log_filename, maxBytes=self.max_bytes_each,
+                                                  backupCount=self.backup_count)
             rt_file_handler.setFormatter(formatter)
             self.logger.addHandler(rt_file_handler)
 
 
-logsingleton = LogSingleton(Config().log_config_path)
-print(logsingleton.logger_name)
-logger = logsingleton.get_logger()
+log_singleton = LogSingleton(Config().log_config_path)
+print(log_singleton.logger_name)
+logger = log_singleton.get_logger()
 logger.info("log")
 # 在其他模块导入该logger全局变量，输出日志的时候，文件名就是其他模块

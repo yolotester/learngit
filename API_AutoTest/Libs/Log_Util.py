@@ -1,32 +1,29 @@
 #! usr/bin/env python
 # -*- coding: utf-8 -*-
-import configparser
+
 # @Time   : 2020/10/27 0:42
 # @Author : Yolo
 # @Desc   : 配置类
 # @File   : Config.py
 # @Software: PyCharm
-import sys
-sys.path.append('/Users/zz/Git/API_AutoTest')
 
 
 import logging
-import os
 import sys
 import threading
 import time
 from logging.handlers import RotatingFileHandler
-from Config.Config import * # 导入Config模块，第一个Config是目录名
+from Config.Config import *  # 导入Config模块，第一个Config是目录名
 
 
 class LogSingleton(object):
     def __new__(cls, log_config):
-        '''
+        """
         1、静态方法，需要主动传参cls
         2、实现单例模式，必须要重写该方法
         :param log_config: 用于接收Config中log_config.ini文件
         :return: 对象的引用（单例模式下，引用相同）
-        '''
+        """
 
         mutex = threading.Lock()
         mutex.acquire()  # 上锁，防止多线程下出问题
@@ -45,7 +42,8 @@ class LogSingleton(object):
                 os.makedirs(Config().log_path)
 
             # 为对象创建属性 -- 得到配置文件中log_config.ini 各项的值
-            cls.instance.log_filename = os.path.join(Config().log_path, time.strftime('%Y-%m-%d %H-%M-%S'+'.log', time.localtime()))  # 2020-10-27 13-49-11.log
+            cls.instance.log_filename = os.path.join(Config().log_path, time.strftime('%Y-%m-%d %H-%M-%S' + '.log',
+                                                                                      time.localtime()))  # 2020-10-27 13-49-11.log
             cls.instance.max_bytes_each = int(config.get('LOGGING', 'max_bytes_each'))
             cls.instance.backup_count = int(config.get('LOGGING', 'backup_count'))
             cls.instance.fmt = config.get('LOGGING', 'fmt')
@@ -64,7 +62,7 @@ class LogSingleton(object):
 
     # 日志步骤之二：设置日志级别
     def get_logger(self):
-        '''用于获取配置文件中日志信息级别,通过更改log配置文件，就可以实现要输出哪个级别的信息'''
+        """用于获取配置文件中日志信息级别,通过更改log配置文件，就可以实现要输出哪个级别的信息"""
         self.logger.setLevel(self.log_level)
         return self.logger
 
@@ -84,13 +82,14 @@ class LogSingleton(object):
             self.logger.addHandler(console)
 
         if self.logfile_log_on == 1:  # 如果开启文件日志
-            rt_file_handler = RotatingFileHandler(self.log_filename, maxBytes=self.max_bytes_each, backupCount=self.backup_count)
+            rt_file_handler = RotatingFileHandler(self.log_filename, maxBytes=self.max_bytes_each,
+                                                  backupCount=self.backup_count)
             rt_file_handler.setFormatter(formatter)
             self.logger.addHandler(rt_file_handler)
 
 
-logsingleton = LogSingleton(Config().log_config_path)
-logger = logsingleton.get_logger()  # 如果其他文件需要日志，可直接from Libs.Log_Util import logger
+log_singleton = LogSingleton(Config().log_config_path)
+logger = log_singleton.get_logger()  # 如果其他文件需要日志，可直接from Libs.Log_Util import logger
 
 if __name__ == '__main__':
     print(sys.path)

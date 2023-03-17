@@ -7,6 +7,7 @@ from datetime import datetime
 from Libs.Errors import *
 from xlrd import xldate_as_tuple
 
+
 class ExcelUtil(object):
     def __init__(self, filepath, sheet_name=''):
         """
@@ -91,7 +92,7 @@ class ExcelUtil(object):
                     cell = date.strftime("%Y/%m/%d %H:%M:%S")
                 elif c_type == 4:  # 如果是布尔类型
                     cell = True if cell == 1 else False
-                row_content.update({sheet.cell_value(0, j):cell})
+                row_content.update({sheet.cell_value(0, j): cell})
                 logger.info("行内容字典格式：%s" % row_content)
             all_content.append(row_content)
             logger.info("列表格式的所有数据：%s" % all_content)
@@ -120,8 +121,10 @@ class ExcelUtil(object):
         """
         data = pd.read_excel(self.filepath)
         # 匹配两个excel列的值是否存在
-        if not data.loc[(data['ModuleName'] + data['InterfaceName'] == r_c_info['ModuleName'] + r_c_info['InterfaceName'])].empty:
-            template_content = data.loc[(data['ModuleName'] + data['InterfaceName'] == r_c_info['ModuleName'] + r_c_info['InterfaceName'])]
+        if not data.loc[
+            (data['ModuleName'] + data['InterfaceName'] == r_c_info['ModuleName'] + r_c_info['InterfaceName'])].empty:
+            template_content = data.loc[
+                (data['ModuleName'] + data['InterfaceName'] == r_c_info['ModuleName'] + r_c_info['InterfaceName'])]
             if len(template_content) > 1:
                 # json.loads -- 将已编码的 JSON 字符串解码为 Python 对象
                 logger.error(json.loads(template_content.to_json(orient='records')))  # 使用'records'格式化的JSON 对数据框进行编码/解码
@@ -174,17 +177,14 @@ class ExcelUtil(object):
 
 
 if __name__ == '__main__':
-
     excel = ExcelUtil(r'C:\Users\yolo\Desktop\Test_Case.xlsx', 'User')
-# excel.get_excel_xlsx_and_type_cast()
-# excel.write_excel(2, 4, "yolo")
-# data = excel.excel_interface_info({'ModuleName': '检查', 'InterfaceName': '检查API地址是否正常'})
-# print(data)
+    # excel.get_excel_xlsx_and_type_cast()
+    # excel.write_excel(2, 4, "yolo")
+    data = excel.excel_interface_info({'ModuleName': '检查', 'InterfaceName': '检查API地址是否正常'})
+    print(data)
     print(excel.excel_case_info(['VIP']))
 
     # print(excel.excel_case_info('VIP'))
     # logger.info(excel.read_excel_xlsx())
     result = excel.excel_field_name_value_match('ID', 'A001')
     print(result)
-
-
